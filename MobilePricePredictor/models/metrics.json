@@ -1,0 +1,100 @@
+{
+  "best_model": "extra_trees",
+  "rows": 836,
+  "models": {
+    "ridge_regression": {
+      "label": "Ridge Regression",
+      "cv_r2_mean": 0.4519,
+      "cv_r2_std": 0.3185,
+      "test_r2": 0.2158,
+      "test_mae_inr": 8222.13,
+      "test_rmse_inr": 42698.28,
+      "test_mape_pct": 37.94,
+      "within_10pct": 25.6,
+      "uncertainty_abs_90": 11682.91
+    },
+    "random_forest": {
+      "label": "Random Forest",
+      "cv_r2_mean": 0.6428,
+      "cv_r2_std": 0.2619,
+      "test_r2": 0.4144,
+      "test_mae_inr": 4898.61,
+      "test_rmse_inr": 36898.32,
+      "test_mape_pct": 13.73,
+      "within_10pct": 58.9,
+      "uncertainty_abs_90": 3909.17
+    },
+    "gradient_boosting": {
+      "label": "Gradient Boosting",
+      "cv_r2_mean": 0.5257,
+      "cv_r2_std": 0.2933,
+      "test_r2": 0.3005,
+      "test_mae_inr": 7020.29,
+      "test_rmse_inr": 40327.36,
+      "test_mape_pct": 25.21,
+      "within_10pct": 25.0,
+      "uncertainty_abs_90": 10138.39
+    },
+    "extra_trees": {
+      "label": "Extra Trees",
+      "cv_r2_mean": 0.6951,
+      "cv_r2_std": 0.2869,
+      "test_r2": 0.4742,
+      "test_mae_inr": 4603.77,
+      "test_rmse_inr": 34962.88,
+      "test_mape_pct": 11.09,
+      "within_10pct": 66.1,
+      "uncertainty_abs_90": 2432.32
+    }
+  },
+  "feature_importance": [
+    {
+      "feature": "brand",
+      "label": "Brand",
+      "importance": 34.9
+    },
+    {
+      "feature": "rating",
+      "label": "User rating",
+      "importance": 23.1
+    },
+    {
+      "feature": "screen_inch",
+      "label": "Screen size (inches)",
+      "importance": 19.3
+    },
+    {
+      "feature": "storage_gb",
+      "label": "Storage (GB)",
+      "importance": 9.7
+    },
+    {
+      "feature": "battery_mah",
+      "label": "Battery (mAh)",
+      "importance": 6.2
+    },
+    {
+      "feature": "front_camera_mp",
+      "label": "Selfie camera (MP)",
+      "importance": 3.3
+    },
+    {
+      "feature": "ram_gb",
+      "label": "RAM (GB)",
+      "importance": 1.2
+    },
+    {
+      "feature": "main_camera_mp",
+      "label": "Rear camera (MP)",
+      "importance": 1.2
+    },
+    {
+      "feature": "model",
+      "label": "Mobile model",
+      "importance": 1.1
+    }
+  ],
+  "uncertainty_abs_90": 2432.32,
+  "dataset": "Mobile Price Prediction Datatset.csv",
+  "target": "INR"
+}

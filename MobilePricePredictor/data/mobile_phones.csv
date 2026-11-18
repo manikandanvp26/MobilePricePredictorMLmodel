@@ -1,0 +1,837 @@
+brand,model,rating,ram_gb,storage_gb,screen_inch,main_camera_mp,front_camera_mp,battery_mah,price_inr,listing_name
+LG,V30+,4.3,4.0,128.0,6.0,48,13.0,4000,24999,"LG V30+ (Black, 128 )"
+I Kall,K11,3.4,6.0,64.0,4.5,48,12.0,4000,15999,I Kall K11
+Nokia,105 ss,4.3,4.0,4.0,4.5,64,16.0,4000,15000,Nokia 105 ss
+Samsung,Galaxy A50,4.4,6.0,64.0,6.4,48,15.0,3800,18999,"Samsung Galaxy A50 (White, 64 )"
+POCO,F1,4.5,6.0,128.0,6.18,35,15.0,3800,18999,"POCO F1 (Steel Blue, 128 )"
+Apple,iPhone 11 Pro,4.7,8.0,128.0,5.8,35,12.0,5000,140300,"Apple iPhone 11 Pro (Space Grey, 512 )"
+Samsung,Galaxy A70s,4.4,8.0,128.0,6.7,64,5.0,4700,29999,"Samsung Galaxy A70s (Prism Crush Red, 128 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,47999,"Samsung Galaxy S10 Lite (Prism Blue, 512 )"
+OPPO,A9,4.4,4.0,128.0,6.53,48,2.0,4020,16490,"OPPO A9 (Marble Green, 128 )"
+POCO,F1,4.5,8.0,256.0,6.18,35,5.0,3800,22999,"POCO F1 (Graphite Black, 256 )"
+Megus,Ultra,3.9,6.0,32.0,4.54,64,8.0,4100,1099,Megus Ultra
+Jmax,M40 Coo of Two,3.8,6.0,32.0,4.5,64,8.0,1050,1299,Jmax M40 Coo of Two
+Wizphone,WP,4.1,2.0,16.0,5.5,8,8.0,4200,5498,"Wizphone WP (Black, 16 )"
+Easyfone,Star,3.8,6.0,32.0,4.7,64,8.0,3000,3999,Easyfone Star
+OnePlus,7 Pro,4.5,8.0,256.0,6.67,48,8.0,3800,43999,"OnePlus 7 Pro (Nebula Blue, 256 )"
+OnePlus,7 Pro,4.6,6.0,128.0,6.67,48,8.0,3800,42990,"OnePlus 7 Pro (Mirror Grey, 128 )"
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,8.0,4700,990,Kechaoda A27
+Samsung,Galaxy S20+,4.5,8.0,128.0,6.7,64,1.0,4700,77999,"Samsung Galaxy S20+ (Cloud Blue, 128 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,47999,"Samsung Galaxy S10 Lite (Prism Black, 512 )"
+OPPO,A5s,4.3,2.0,32.0,6.2,38,2.0,4230,12990,"OPPO A5s (Red, 32 )"
+InFocus,POWER 2,4.1,8.0,64.0,4.54,64,8.0,2500,1199,InFocus POWER 2
+Blacear,I7 Trio,3.7,6.0,32.0,2.0,64,13.0,1550,1699,Blacear I7 Trio
+Karbonn,K451 Power,3.8,6.0,32.0,4.54,48,8.0,3000,1349,Karbonn K451 Power
+Micax,X742,3.8,6.0,32.0,4.54,25,23.0,3000,1240,Micax X742
+Snexian,Guru 332,4.1,6.0,32.0,4.5,64,32.0,3000,649,Snexian Guru 332
+Snexian,Guru 332,4.1,6.0,32.0,4.5,64,13.0,3000,649,Snexian Guru 332
+Blacear,i7 Trio,3.8,12.0,24.0,2.0,64,8.0,1550,1690,Blacear i7 Trio
+Karbonn,K334,3.7,6.0,32.0,4.77,48,8.0,1750,927,Karbonn K334
+Lava,Prime X,4.1,6.0,32.0,4.5,64,23.0,3000,1599,Lava Prime X
+I Kall,K23 New Mobile,3.6,8.0,32.0,4.5,48,8.0,3000,649,I Kall K23 New Mobile
+InFocus,Selfie C1,3.9,6.0,32.0,4.5,64,15.0,3000,999,InFocus Selfie C1
+LG,G8X,4.5,6.0,128.0,6.4,35,13.0,3800,54990,"LG G8X (Black, 128 )"
+Gee,A1,4.0,4.0,64.0,5.5,38,1.0,4010,21499,"Gee A1 (Grey, 64 )"
+Tecno,Camon 15 Pro,4.2,6.0,128.0,6.53,48,2.0,3800,15999,"Tecno Camon 15 Pro (Opal White, 128 )"
+Lava,A7,4.2,6.0,24.0,4.54,48,8.0,1750,1799,Lava A7
+Apple,"iPhone XR RED, 128 )",4.6,12.0,128.0,6.1,35,7.0,3500,573000,"Apple iPhone XR ((PRODUCT)RED, 128 )"
+Micax,X749,4.2,6.0,32.0,4.54,48,18.0,1750,1549,Micax X749
+Itel,it2161,4.0,6.0,32.0,4.5,48,8.0,3000,847,Itel it2161
+Karbonn,K-Pebble,3.9,12.0,12.0,4.54,48,13.0,3000,1579,Karbonn K-Pebble
+Karbonn,KX21,3.9,6.0,32.0,4.54,48,5.0,3000,1330,Karbonn KX21
+Inovu,A9,3.6,6.0,32.0,4.54,38,8.0,1200,945,Inovu A9
+Inovu,A9,3.6,6.0,32.0,4.54,38,0.0,1200,945,Inovu A9
+LG,Q Stylus,3.8,3.0,32.0,6.2,48,8.0,3000,15899,"LG Q Stylus (Black, 32 )"
+OPPO,R17 Pro,4.1,8.0,128.0,6.4,35,20.0,3000,31590,"OPPO R17 Pro (Emerald Green, 128 )"
+Micax,X516,3.9,6.0,32.0,4.77,48,8.0,1750,1451,Micax X516
+Meizu,C9 Pro,4.1,3.0,32.0,5.4,38,5.0,3000,7490,"Meizu C9 Pro (Black, 32 )"
+Jivi,R21Plus,4.3,1.0,16.0,4.5,48,8.0,3000,798,Jivi R21Plus
+Jivi,R21Plus,4.3,1.0,16.0,4.5,48,2.0,3000,869,Jivi R21Plus
+Nokia,3310 DS,3.8,4.0,64.0,4.54,48,8.0,1200,3580,Nokia 3310 DS
+Lava,34,4.0,6.0,32.0,4.54,64,14.0,2500,1695,Lava 34
+Easyfone,Amico,3.5,6.0,32.0,4.52,48,8.0,3800,2599,Easyfone Amico
+Apple,iPhone 11 Pro Max,4.7,8.0,64.0,6.5,35,12.0,3000,117100,"Apple iPhone 11 Pro Max (Gold, 64 )"
+Samsung,Galaxy S8 Plus,4.6,4.0,64.0,6.2,35,8.0,3500,53990,"Samsung Galaxy S8 Plus (Midnight Black, 64 )"
+Black,Shark 2,4.4,6.0,128.0,6.39,48,12.0,3800,31999,"Black Shark 2 (Shadow Black, 128 )"
+Karbonn,K24 Plus Pro,3.8,6.0,32.0,4.54,48,8.0,2800,1299,Karbonn K24 Plus Pro
+InFocus,POWER 2,4.1,8.0,64.0,4.54,64,13.0,2500,1390,InFocus POWER 2
+InFocus,Vibe 1,3.6,6.0,32.0,4.5,48,8.0,3000,898,InFocus Vibe 1
+Blacear,B5 Grip,3.5,6.0,32.0,4.5,64,17.0,1050,799,Blacear B5 Grip
+Apple,iPhone 11 Pro,4.7,12.0,256.0,5.8,35,12.0,3800,121300,"Apple iPhone 11 Pro (Space Grey, 256 )"
+JIVI,JV 12M,3.7,10.0,32.0,4.5,64,8.0,3000,799,JIVI JV 12M
+Alcatel,5V,4.4,3.0,32.0,6.2,48,1.0,3800,9790,"Alcatel 5V (Spectrum Blue, 32 )"
+Kechaoda,A32,3.8,6.0,32.0,4.4,48,8.0,3000,930,Kechaoda A32
+Kechaoda,A32,3.8,6.0,32.0,4.4,48,8.0,3000,930,Kechaoda A32
+Redmi,Note 5 Pro,4.5,6.0,64.0,5.99,35,5.0,3800,13999,"Redmi Note 5 Pro (Gold, 64 )"
+Salora,Vishaal,3.8,6.0,32.0,4.54,64,8.0,4100,1149,Salora Vishaal
+Redmi,K20,4.5,6.0,128.0,6.39,48,13.0,3800,24999,"Redmi K20 (Flame Red, 128 )"
+Apple,iPhone 8 RED,4.7,12.0,256.0,4.7,35,7.0,5000,56999,"Apple iPhone 8 (PRODUCT)RED (Red, 256 )"
+Apple,iPhone 11,4.7,8.0,64.0,6.1,35,12.0,3800,68300,"Apple iPhone 11 (Yellow, 64 )"
+Gee,F103 Pro,3.9,3.0,16.0,5.0,38,5.0,4200,8798,"Gee F103 Pro (Grey, 16 )"
+Gee,F103 Pro,3.9,3.0,16.0,5.0,38,5.0,4200,8990,"Gee F103 Pro (Gold, 16 )"
+Easyfone,Elite,4.1,6.0,32.0,4.54,48,8.0,3000,3149,Easyfone Elite
+JIVI,12M,3.6,1.0,32.0,4.5,48,10.0,3500,799,JIVI 12M
+Karbonn,K2 Boom Box,3.9,6.0,32.0,4.5,48,8.0,3000,999,Karbonn K2 Boom Box
+Nexus,6P Special Edit,4.3,3.0,64.0,5.7,35,18.0,3500,42998,"Nexus 6P Special Edit (Gold, 64 )"
+OPPO,F15,4.4,8.0,128.0,6.4,48,8.0,3800,18990,"OPPO F15 (Lightening Black, 128 )"
+Apple,iPhone 11 Pro,4.7,8.0,64.0,5.8,35,12.0,3500,106600,"Apple iPhone 11 Pro (Gold, 64 )"
+Dublin,D614,4.1,6.0,64.0,4.54,48,8.0,2800,649,Dublin D614
+Karbonn,KX23,4.0,6.0,32.0,4.54,48,8.0,1900,1349,Karbonn KX23
+LG,Q6,4.0,3.0,32.0,5.5,38,5.0,3000,103000,"LG Q6 (Black, 32 )"
+OPPO,K1,4.4,6.0,64.0,6.41,48,2.0,3600,18989,"OPPO K1 (Piano Black, 64 )"
+Redmi,Note 7 Pro,4.4,6.0,128.0,6.3,48,5.0,3800,17990,"Redmi Note 7 Pro (Neptune Blue, 128 )"
+Nokia,150/150 DS,4.2,4.0,4.0,4.54,48,8.0,1020,1500,Nokia 150/150 DS
+Kechaoda,K112,3.9,6.0,64.0,4.54,48,8.0,3600,1799,Kechaoda K112
+Itel,it5260,4.1,6.0,32.0,4.54,48,32.0,1900,1570,Itel it5260
+OPPO,Reno2,4.5,8.0,256.0,6.5,48,8.0,3800,38990,"OPPO Reno2 (Ocean Blue, 256 )"
+Jivi,N9030,3.9,1.0,16.0,4.58,48,8.0,3000,1399,Jivi N9030
+Inovu,A7,3.4,6.0,32.0,4.77,48,8.0,3000,785,Inovu A7
+Easyfone,Udaan,4.0,6.0,32.0,4.77,48,8.0,3000,2100,Easyfone Udaan
+Gee,S11 Lite,4.0,4.0,32.0,5.7,38,2.0,3030,9999,"Gee S11 Lite (Gold, 32 )"
+Nokia,105 Dual Sim 2017,4.2,4.0,4.0,4.5,64,8.0,3500,1149,Nokia 105 Dual Sim 2017
+Jivi,N300 New,3.9,5.0,32.0,4.54,48,8.0,3000,1049,Jivi N300 New
+Jivi,N300 New,3.9,5.0,32.0,4.54,48,8.0,3000,999,Jivi N300 New
+Micax,X940,3.8,12.0,56.0,4.57,48,10.0,3000,1799,Micax X940
+Samsung,Guru 1200,4.3,6.0,64.0,4.4,64,8.0,3500,1100,Samsung Guru 1200
+Samsung,Guru FM Plus,4.2,3.0,40.0,4.77,64,8.0,3800,1790,Samsung Guru FM Plus
+Ssky,S9007 Rainbow,3.6,6.0,32.0,4.54,64,8.0,2800,1125,Ssky S9007 Rainbow
+Samsung,Guru Music 2,4.3,6.0,64.0,2.0,64,8.0,3500,1625,Samsung Guru Music 2
+Q-Tel,Q8,3.4,6.0,32.0,4.77,48,8.0,3000,559,Q-Tel Q8
+Ssky,S-40 Prime,3.7,6.0,32.0,4.5,64,8.0,3000,749,Ssky S-40 Prime
+Redmi,K20 Pro,4.5,8.0,256.0,6.39,48,13.0,3800,29999,"Redmi K20 Pro (Pearl White, 256 )"
+OPPO,A3s,4.3,3.0,32.0,6.2,38,2.0,4230,8990,"OPPO A3s (Purple, 32 )"
+OPPO,A83,4.2,2.0,16.0,5.7,38,8.0,3180,9490,"OPPO A83 (Chaagne, 16 )"
+OPPO,A5s,4.3,3.0,32.0,6.2,38,2.0,4230,9490,"OPPO A5s (Black, 32 )"
+Vivo,Y66,4.3,3.0,32.0,5.5,38,1.0,3000,14990,"Vivo Y66 (Crown Gold, 32 )"
+Micax,X772,3.9,4.0,20.0,4.54,48,8.0,3700,1499,Micax X772
+Vivo,V7,4.4,4.0,32.0,5.7,48,2.0,3000,18990,"Vivo V7 (Gold, 32 )"
+Vivo,X21,4.2,6.0,128.0,6.28,35,5.0,3200,36990,"Vivo X21 (Black, 128 )"
+I Kall,K3310,3.7,6.0,64.0,4.5,48,8.0,3000,649,I Kall K3310
+Redmi,K20,4.5,6.0,64.0,6.39,48,13.0,3800,21999,"Redmi K20 (Pearl White, 64 )"
+GAMMA,K 28,4.1,6.0,32.0,4.5,48,8.0,3000,1099,GAMMA K 28
+GAMMA,K2 no,3.9,6.0,32.0,4.8,48,8.0,3000,940,GAMMA K2 no
+Samsung,Galaxy S20+,4.5,8.0,128.0,6.7,64,1.0,4700,77999,"Samsung Galaxy S20+ (Cosmic Black, 128 )"
+Karbonn,KX1,3.9,6.0,32.0,4.5,48,8.0,3000,899,Karbonn KX1
+Redmi,K20,4.5,6.0,128.0,6.39,48,13.0,3800,24999,"Redmi K20 (Carbon Black, 128 )"
+Mi,A3,4.2,6.0,128.0,6.08,48,8.0,4030,14990,"Mi A3 (More Than White, 128 )"
+Apple,iPhone XR,4.6,12.0,64.0,6.1,35,7.0,3500,573000,"Apple iPhone XR (Yellow, 128 )"
+Kechaoda,K9,4.1,6.0,64.0,4.54,48,8.0,3700,1250,Kechaoda K9
+Nokia,216/216 DS,4.3,4.0,64.0,4.54,48,20.0,1020,2450,Nokia 216/216 DS
+JIVI,N3720 Power,4.1,1.0,16.0,4.58,48,8.0,3800,2299,JIVI N3720 Power
+BlackZone,Neo-B,4.0,6.0,32.0,4.77,48,8.0,1100,685,BlackZone Neo-B
+Micax,X707,3.6,6.0,2.4,4.77,48,8.0,3000,1190,Micax X707
+Lava,One,4.1,6.0,25.0,4.54,48,12.0,3000,1369,Lava One
+Muphone,MU M360,4.3,6.0,32.0,4.4,64,8.0,3000,960,Muphone MU M360
+Micax,Flash X910,3.7,4.0,40.0,4.58,48,8.0,3800,1799,Micax Flash X910
+I Kall,K3310,3.7,6.0,64.0,4.5,48,8.0,3000,639,I Kall K3310
+I Kall,K27 New,3.5,6.0,64.0,4.5,48,8.0,3000,639,I Kall K27 New
+OPPO,A5s,4.3,3.0,32.0,6.2,38,2.0,4230,13744,"OPPO A5s (Blue, 32 )"
+Micax,X412,3.9,6.0,32.0,4.77,64,8.0,4600,1399,Micax X412
+I Kall,K 15,3.5,6.0,64.0,4.5,48,12.0,3000,639,I Kall K 15
+Vivo,Y81,4.3,4.0,32.0,6.22,38,5.0,3260,13950,"Vivo Y81 (Gold, 32 )"
+Karbonn,K49,3.8,6.0,32.0,4.54,48,8.0,3500,1149,Karbonn K49
+MI3,MI3,4.4,2.0,16.0,5.0,38,2.0,3050,13999,"MI3 (Metallic Grey, 16 )"
+Karbonn,K Pebble,4.0,6.0,32.0,4.54,48,8.0,3000,1690,Karbonn K Pebble
+Grabo,G100,3.7,8.0,64.0,4.5,48,5.0,3000,479,Grabo G100
+Samsung,Metro 313 Dual Sim,4.2,4.0,22.0,4.503,48,8.0,3000,2025,Samsung Metro 313 Dual Sim
+Apple,iPhone 11 Pro Max,4.7,8.0,64.0,6.5,35,12.0,3500,117100,"Apple iPhone 11 Pro Max (Silver, 64 )"
+OPPO,R17,4.1,8.0,128.0,6.4,48,8.0,3500,22999,"OPPO R17 (Aient Blue, 128 )"
+OPPO,R17,4.1,8.0,128.0,6.4,48,5.0,3500,22999,"OPPO R17 (Neon Purple, 128 )"
+Salora,Kiano,3.9,6.0,32.0,4.54,64,8.0,1200,1299,Salora Kiano
+Samsung,Guru GT,4.1,4.0,40.0,4.4,64,8.0,3500,1549,Samsung Guru GT
+Redmi,Note 8,4.4,6.0,128.0,6.3,48,1.0,3800,153000,"Redmi Note 8 (Cosmic Purple, 128 )"
+MTR,MT 310,3.7,8.0,64.0,4.5,48,6.0,3000,650,MTR MT 310
+Lava,A7,4.2,6.0,24.0,4.54,48,8.0,1750,1599,Lava A7
+I Kall,K18 New Coo of Two Mobiles,3.6,6.0,64.0,4.5,48,4.0,3000,1199,I Kall K18 New Coo of Two Mobiles
+Karbonn,Titanium S4,3.4,1.0,4.0,4.7,38,2.0,2800,13298,"Karbonn Titanium S4 (Black, 4 )"
+MTR,Mt312,3.6,8.0,64.0,4.77,48,8.0,3000,650,MTR Mt312
+Redmi,Note 6 Pro,4.5,6.0,64.0,6.26,35,5.0,3800,17999,"Redmi Note 6 Pro (Black, 64 )"
+Samsung,Galaxy A21s,4.2,4.0,64.0,6.5,48,8.0,5000,16499,"Samsung Galaxy A21s (White, 64 )"
+Nokia,7.2,4.2,6.0,64.0,6.3,48,5.0,3500,18099,"Nokia 7.2 (Charcoal, 64 )"
+MTR,Sima,4.2,8.0,64.0,4.77,48,8.0,3000,699,MTR Sima
+Lava,Z61,4.1,1.0,16.0,5.4,8,5.0,3000,6999,"Lava Z61 (Gold, 16 )"
+MTR,Ba,4.3,8.0,64.0,4.77,48,5.0,3000,649,MTR Ba
+I Kall,K73,3.2,6.0,64.0,4.5,64,8.0,3500,539,I Kall K73
+Itel,It 5605n,4.1,6.0,32.0,4.77,48,8.0,2500,1099,Itel It 5605n
+Karbonn,K338N,3.7,6.0,32.0,4.54,38,16.0,3000,1299,Karbonn K338N
+MTR,Shakti,4.1,6.0,32.0,4.77,48,8.0,3000,649,MTR Shakti
+I Kall,K3312,3.5,6.0,64.0,4.5,48,8.0,3000,749,I Kall K3312
+MTR,Shakti,4.1,6.0,32.0,4.5,48,16.0,3000,649,MTR Shakti
+Honor,8X,4.4,6.0,128.0,6.5,40,2.0,3750,13699,"Honor 8X (Black, 128 )"
+Karbonn,K140 Pop,3.9,6.0,32.0,4.5,48,8.0,3000,813,Karbonn K140 Pop
+GAMMA,K1 no,3.8,6.0,32.0,44.0,48,8.0,3000,890,GAMMA K1 no
+Vivo,S1,4.4,6.0,64.0,6.38,48,8.0,4700,18999,"Vivo S1 (Diamond Black, 64 )"
+Karbonn,K19 Rock,3.9,6.0,32.0,4.5,48,8.0,1750,999,Karbonn K19 Rock
+I Kall,K22 New,3.6,6.0,64.0,4.5,48,8.0,3000,649,I Kall K22 New
+I Kall,K3310 Coo Of Two Mobile,3.7,6.0,64.0,4.5,48,12.0,3000,1199,I Kall K3310 Coo Of Two Mobile
+Micax,X773,3.8,25.0,25.0,4.54,48,8.0,3000,1199,Micax X773
+Samsung,Guru 1200,4.3,6.0,64.0,4.4,64,8.0,3500,1200,Samsung Guru 1200
+Tork,T13 Ba,4.1,6.0,32.0,4.54,48,8.0,3000,899,Tork T13 Ba
+Honor,9N,4.3,4.0,64.0,4.8,38,2.0,3000,15999,"Honor 9N (Midnight Black, 64 )"
+Lava,H1 Hero 600,4.0,12.0,24.0,4.5,48,8.0,3500,799,Lava H1 Hero 600
+Samsung,Galaxy A80,4.4,8.0,128.0,6.7,48,8.0,3000,52962,"Samsung Galaxy A80 (Phantom Black, 128 )"
+I Kall,K3312,3.5,6.0,64.0,4.5,48,20.0,3000,1299,I Kall K3312
+Inovu,A7i,3.4,6.0,32.0,4.77,48,8.0,3500,735,Inovu A7i
+Alcatel,5V,4.4,3.0,32.0,6.2,48,16.0,3800,12999,"Alcatel 5V (Spectrum Black, 32 )"
+Mi,A2,4.2,4.0,64.0,5.99,40,12.0,3010,14990,"Mi A2 (Blue/Lake Blue, 64 )"
+Mi,A3,4.2,6.0,128.0,6.08,48,8.0,4030,17190,"Mi A3 (Not just Blue, 128 )"
+Samsung,Galaxy S8 Plus,4.6,4.0,64.0,6.2,35,8.0,3500,53990,"Samsung Galaxy S8 Plus (Maple Gold, 64 )"
+InFocus,VIBE 2,4.2,6.0,32.0,4.54,64,8.0,3000,990,InFocus VIBE 2
+Realme,C2,4.4,2.0,16.0,6.1,38,2.0,3800,6499,"Realme C2 (Diamond Blue, 16 )"
+Honor,8X,4.4,6.0,64.0,6.5,40,2.0,3750,19999,"Honor 8X (Blue, 64 )"
+I Kall,K 2180 Coo of Two Mobiles,3.8,6.0,32.0,4.5,48,8.0,3000,1199,I Kall K 2180 Coo of Two Mobiles
+Lava,A1,4.1,4.0,3.0,4.5,48,12.0,3000,949,Lava A1
+Itel,It 2163,4.0,6.0,32.0,4.5,48,8.0,3500,948,Itel It 2163
+Callbar,A35S,3.4,0.0,64.0,4.5,48,8.0,3000,595,Callbar A35S
+Easyfone,Elite,4.1,6.0,32.0,4.54,48,8.0,3000,3149,Easyfone Elite
+POCO,F1,4.5,6.0,64.0,6.18,35,5.0,3800,21999,"POCO F1 (Rosso Red, 64 )"
+I Kall,K55 Coo Of Two Mobile,3.5,6.0,64.0,4.5,48,16.0,3000,1199,I Kall K55 Coo Of Two Mobile
+I Kall,K55 Coo Of Two Mobile,3.5,6.0,64.0,4.5,48,8.0,3000,1199,I Kall K55 Coo Of Two Mobile
+Yuho,O1,3.3,2.0,16.0,5.0,8,8.0,2000,7199,"Yuho O1 (Onyx Black, 16 )"
+InFocus,Hero Selfie C1,3.9,6.0,32.0,4.5,64,20.0,3000,950,InFocus Hero Selfie C1
+JIVI,JV 12M,4.0,30.0,0.0,4.5,64,8.0,3500,799,JIVI JV 12M
+Vivo,V17Pro,4.5,8.0,128.0,6.44,48,13.0,4100,253000,"Vivo V17Pro (Glacier Ice White, 128 )"
+Samsung,Metro 313 Dual Sim,4.2,4.0,2.0,2.0,48,8.0,3000,2025,Samsung Metro 313 Dual Sim
+I Kall,K25 New,3.5,6.0,64.0,4.5,48,20.0,3000,669,I Kall K25 New
+Itel,It2171,4.1,6.0,32.0,4.5,48,8.0,3000,849,Itel It2171
+Itel,It2171,4.1,6.0,32.0,4.5,48,20.0,3000,850,Itel It2171
+I Kall,lk22 new,3.6,6.0,64.0,4.5,48,8.0,3000,639,I Kall lk22 new
+Itel,It 5022,4.1,6.0,32.0,4.54,48,20.0,3000,1199,Itel It 5022
+Apple,iPhone XS,4.7,12.0,64.0,5.8,35,12.0,3500,84900,"Apple iPhone XS (Silver, 256 )"
+Honor,9N,4.3,4.0,128.0,5.84,38,2.0,3000,19999,"Honor 9N (Midnight Black, 128 )"
+InFocus,F229,4.0,6.0,32.0,4.54,48,8.0,3000,1640,InFocus F229
+GreenBerry,312,3.4,6.0,64.0,4.5,48,20.0,3000,599,GreenBerry 312
+I Kall,K3310 Coo Of Two Mobile,3.7,6.0,64.0,4.5,48,20.0,3000,1199,I Kall K3310 Coo Of Two Mobile
+Vivo,Y81,4.4,3.0,32.0,6.1,38,5.0,3260,13990,"Vivo Y81 (Black, 32 )"
+Mymax,A12,4.0,6.0,32.0,4.5,64,8.0,3000,599,Mymax A12
+Intex,Eco Selfie 2,3.9,34.0,64.0,4.5,48,21.0,3000,955,Intex Eco Selfie 2
+Samsung,Galaxy S10e,4.5,6.0,128.0,5.8,48,12.0,3100,59000,"Samsung Galaxy S10e (Prism Black, 128 )"
+I Kall,K71 Coo Of Two Mobile,3.2,6.0,64.0,44.0,48,8.0,3500,899,I Kall K71 Coo Of Two Mobile
+Itel,It 2190,4.1,6.0,32.0,4.5,48,20.0,3000,1111,Itel It 2190
+Itel,It 2190,4.1,6.0,32.0,4.5,48,15.0,3000,1099,Itel It 2190
+Trio,T6*,3.3,6.0,25.0,4.54,64,8.0,3000,715,Trio T6*
+MTR,Sima,4.2,8.0,64.0,4.77,48,32.0,3000,749,MTR Sima
+Itel,IT5025,3.9,6.0,32.0,4.54,48,8.0,1200,1199,Itel IT5025
+Redmi,8A Dual,4.3,3.0,64.0,6.22,38,2.0,5000,9998,"Redmi 8A Dual (Midnight Grey, 64 )"
+F-Fook,F22,3.5,1.0,20.0,4.54,48,8.0,2800,849,F-Fook F22
+Vivo,Y17,4.4,4.0,128.0,6.35,38,2.0,5000,13900,"Vivo Y17 (Mystic Purple, 128 )"
+Tork,T13 Ba,4.1,6.0,32.0,4.54,48,5.0,3000,850,Tork T13 Ba
+Nokia,3310 DS,3.8,4.0,64.0,4.54,48,8.0,1200,4399,Nokia 3310 DS
+Mi,A3,4.2,6.0,128.0,6.08,48,8.0,4030,17398,"Mi A3 (Kind of Grey, 128 )"
+I Kall,K11,3.4,6.0,64.0,4.5,48,5.0,3000,1099,I Kall K11
+Ecotel,E17,3.6,6.0,20.0,4.5,48,8.0,3000,599,Ecotel E17
+Honor,9N,4.3,4.0,128.0,5.84,38,2.0,3000,19999,"Honor 9N (Sapphire Blue, 128 )"
+Heemax,H10,4.1,6.0,32.0,4.5,48,8.0,2500,799,Heemax H10
+Apple,iPhone XS,4.7,8.0,64.0,5.8,35,12.0,3500,112450,"Apple iPhone XS (Silver, 512 )"
+OPPO,F11 Pro,4.4,6.0,64.0,6.5,48,5.0,3800,24990,"OPPO F11 Pro (Aurora Green, 64 )"
+I Kall,k6300 NEW,3.9,6.0,32.0,4.58,48,5.0,3000,1499,I kall k6300 NEW
+OPPO,F9 Pro,4.5,6.0,64.0,6.3,48,2.0,3500,19990,"OPPO F9 Pro (Sunrise Red, 64 )"
+Forme,Turbo1,4.8,12.0,15.0,4.5,35,8.0,2800,899,Forme Turbo1
+Karbonn,K5 Plus,4.0,6.0,32.0,4.5,38,32.0,1750,999,Karbonn K5 Plus
+Lava,34,3.9,8.0,64.0,4.54,64,32.0,2500,1710,Lava 34
+Heemax,H1 Star,3.1,6.0,32.0,4.5,48,8.0,3000,599,Heemax H1 Star
+I Kall,K99 Coo Of Two Mobile,3.5,6.0,64.0,4.5,48,21.0,3000,1099,I Kall K99 Coo Of Two Mobile
+Vivo,V7+,4.4,4.0,64.0,5.99,48,2.0,3225,22221,"Vivo V7+ (Gold, 64 )"
+Peace,FM1,3.5,8.0,32.0,4.5,48,13.0,2500,799,Peace FM1
+Itel,It 2161,4.0,6.0,32.0,4.5,48,13.0,3500,899,Itel It 2161
+ITEL,IT5025,3.9,6.0,32.0,4.54,48,8.0,1200,1273,ITEL IT5025
+MTR,BA,4.3,8.0,64.0,4.77,48,8.0,3000,649,MTR BA
+I Kall,K88 Coo Of Two Mobile,3.5,6.0,64.0,4.5,48,12.0,3000,1099,I Kall K88 Coo Of Two Mobile
+Apple,iPhone 8 Plus,4.6,8.0,64.0,5.5,35,12.0,3500,49900,"Apple iPhone 8 Plus (Gold, 64 )"
+Samsung,Galaxy Note 10,4.5,8.0,256.0,6.3,35,12.0,3500,75000,"Samsung Galaxy Note 10 (Aura Black, 256 )"
+tecno,Camon i Click,4.4,4.0,64.0,6.0,48,8.0,3750,11950,"tecno Camon i Click (Gold, 64 )"
+Itel,Muzik 3000,4.1,4.0,4.0,4.54,48,12.0,3000,1540,Itel Muzik 3000
+I Kall,K71 Coo of Two Mobile,3.2,6.0,64.0,44.0,48,8.0,3500,899,I Kall K71 Coo of Two Mobile
+Lava,A7,4.2,6.0,24.0,4.54,48,12.0,1750,1480,Lava A7
+I Kall,K3310,3.7,6.0,64.0,4.5,48,8.0,3000,639,I Kall K3310
+Forme,Duos N2,4.1,6.0,32.0,4.5,48,0.0,1050,849,Forme Duos N2
+Kechaoda,K35,4.0,6.0,32.0,4.58,48,20.0,3700,1300,Kechaoda K35
+I Kall,K44 Coo of Two Mobiles,3.6,6.0,64.0,4.5,48,8.0,3000,1199,I Kall K44 Coo of Two Mobiles
+I Kall,K11,3.4,6.0,64.0,4.5,48,14.0,3000,599,I Kall K11
+MTR,Mt310,3.8,8.0,64.0,4.77,48,8.0,3000,649,MTR Mt310
+Mafe,Leo,3.8,6.0,64.0,4.5,48,11.0,3500,870,Mafe Leo
+Karbonn,k106s,4.1,10.0,10.0,4.5,48,11.0,3000,920,Karbonn k106s
+Ssky,S3500,3.0,6.0,35.0,4.54,48,23.0,2800,949,Ssky S3500
+Itel,It 2161,4.0,6.0,32.0,4.5,48,32.0,3500,998,Itel It 2161
+I Kall,K20 New Coo of Two Mobiles,3.4,6.0,64.0,4.5,48,8.0,3000,1199,I Kall K20 New Coo of Two Mobiles
+Jivi,Ba 6,3.9,6.0,32.0,4.54,48,0.0,3000,1200,Jivi Ba 6
+I Kall,K28,3.4,6.0,64.0,4.54,20,8.0,3500,639,I Kall K28
+Itel,It2171,4.1,6.0,32.0,4.5,48,8.0,3000,3000,Itel It2171
+Honor,Play,4.5,6.0,64.0,6.3,48,2.0,3750,25999,"Honor Play (Midnight Black, 64 )"
+I Kall,K20 New,3.5,6.0,64.0,4.5,48,8.0,3000,639,I Kall K20 New
+I Kall,K20 New,3.5,6.0,64.0,4.5,48,8.0,3000,639,I Kall K20 New
+Itel,It 5605n,4.1,6.0,32.0,4.77,48,5.0,2500,1225,Itel It 5605n
+Karbonn,KX21,3.9,6.0,32.0,4.54,48,8.0,3000,1049,Karbonn KX21
+I Kall,K200,3.5,2.0,16.0,5.5,5,5.0,2500,4999,"I Kall K200 (Red, 16 )"
+Infinix,Hot 9,4.6,4.0,64.0,6.6,38,2.0,5000,9499,"Infinix Hot 9 (Ocean Wave, 64 )"
+Realme,rzo 10,4.5,4.0,128.0,6.5,48,8.0,5000,11999,"Realme rzo 10 (That Green, 128 )"
+Realme,rzo 10,4.5,4.0,128.0,6.5,48,8.0,5000,11999,"Realme rzo 10 (That White, 128 )"
+Realme,rzo 10,4.5,4.0,128.0,6.5,48,8.0,5000,11999,"Realme rzo 10 (That Blue, 128 )"
+Redmi,Note 8 Pro,4.4,6.0,128.0,6.53,64,8.0,4700,16999,"Redmi Note 8 Pro (Halo White, 128 )"
+Realme,6,4.4,6.0,128.0,6.5,64,8.0,4700,16999,"Realme 6 (Comet White, 128 )"
+POCO,X2,4.5,6.0,64.0,6.67,64,8.0,4700,17499,"POCO X2 (Matrix Purple, 64 )"
+Realme,6 Pro,4.5,6.0,64.0,6.6,64,12.0,4700,17999,"Realme 6 Pro (Lightning Blue, 64 )"
+OPPO,A9 2020,4.4,4.0,128.0,6.5,48,8.0,5000,16990,"OPPO A9 2020 (Marine Green, 128 )"
+Vivo,U10,4.4,3.0,32.0,6.35,38,8.0,5000,10990,"Vivo U10 (Thunder Black, 32 )"
+Motorola,One Fus+,4.5,6.0,128.0,6.5,64,8.0,5000,17499,"Motorola One Fus+ (Twilight Blue, 128 )"
+Vivo,U10,4.4,3.0,32.0,6.35,38,8.0,5000,10990,"Vivo U10 (Electric Blue, 32 )"
+OPPO,A12,4.3,3.0,32.0,6.22,38,2.0,4230,9990,"OPPO A12 (Blue, 32 )"
+OPPO,A12,4.3,3.0,32.0,6.22,38,2.0,4230,9990,"OPPO A12 (Black, 32 )"
+Tecno,Spark Power 2,4.3,4.0,64.0,7.0,48,5.0,6000,9999,"Tecno Spark Power 2 (Misty Grey, 64 )"
+Tecno,Spark Power 2,4.3,4.0,64.0,7.0,48,5.0,6000,9999,"Tecno Spark Power 2 (Ice Jadeite, 64 )"
+OPPO,A31,4.3,4.0,64.0,6.5,35,2.0,4230,12490,"OPPO A31 (Fantasy White, 64 )"
+OPPO,A9 2020,4.3,8.0,128.0,6.5,48,8.0,5000,15990,"OPPO A9 2020 (Space Purple, 128 )"
+OPPO,A5s,4.3,2.0,32.0,6.2,38,2.0,4230,8990,"OPPO A5s (Blue, 32 )"
+Vivo,Y15,4.4,4.0,64.0,6.35,38,2.0,5000,12900,"Vivo Y15 (Aqua Blue, 64 )"
+Samsung,Galaxy M01,4.3,3.0,32.0,5.7,38,2.0,3800,9939,"Samsung Galaxy M01 (Black, 32 )"
+Vivo,Y12,4.4,3.0,64.0,6.35,38,2.0,5000,12649,"Vivo Y12 (Aqua Blue, 64 )"
+Samsung,Galaxy M01,4.3,3.0,32.0,5.7,38,2.0,3800,9987,"Samsung Galaxy M01 (Blue, 32 )"
+I Kall,K11,3.4,6.0,64.0,4.5,48,8.0,3000,599,I Kall K11
+Nokia,105 ss,4.3,4.0,4.0,4.5,64,8.0,3500,3000,Nokia 105 ss
+Samsung,Galaxy A50,4.4,6.0,64.0,6.4,48,5.0,3800,18999,"Samsung Galaxy A50 (White, 64 )"
+POCO,F1,4.5,6.0,128.0,6.18,35,5.0,3800,18999,"POCO F1 (Steel Blue, 128 )"
+Apple,iPhone 11 Pro,4.7,8.0,64.0,5.8,35,12.0,3500,140300,"Apple iPhone 11 Pro (Space Grey, 512 )"
+Samsung,Galaxy A70s,4.4,8.0,128.0,6.7,64,5.0,4700,29999,"Samsung Galaxy A70s (Prism Crush Red, 128 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,47999,"Samsung Galaxy S10 Lite (Prism Blue, 512 )"
+OPPO,A9,4.4,4.0,128.0,6.53,48,2.0,4020,16490,"OPPO A9 (Marble Green, 128 )"
+POCO,F1,4.5,8.0,256.0,6.18,35,5.0,3800,22999,"POCO F1 (Graphite Black, 256 )"
+Megus,Ultra,3.9,6.0,32.0,4.54,64,8.0,4100,1099,Megus Ultra
+Jmax,M40 Coo of Two,3.8,6.0,32.0,4.5,64,8.0,1050,1299,Jmax M40 Coo of Two
+Wizphone,WP,4.1,2.0,16.0,5.5,8,8.0,4200,5498,"Wizphone WP (Black, 16 )"
+Easyfone,Star,3.8,6.0,32.0,4.7,64,8.0,4300,3999,Easyfone Star
+OnePlus,7 Pro,4.5,8.0,256.0,6.67,48,8.0,3800,43999,"OnePlus 7 Pro (Nebula Blue, 256 )"
+OnePlus,7 Pro,4.6,6.0,128.0,6.67,48,8.0,3800,42990,"OnePlus 7 Pro (Mirror Grey, 128 )"
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,8.0,3500,990,Kechaoda A27
+Samsung,Galaxy S20+,4.5,8.0,128.0,6.7,64,1.0,4700,77999,"Samsung Galaxy S20+ (Cloud Blue, 128 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,47999,"Samsung Galaxy S10 Lite (Prism Black, 512 )"
+OPPO,A5s,4.3,2.0,32.0,6.2,38,2.0,4230,12990,"OPPO A5s (Red, 32 )"
+InFocus,POWER 2,4.1,8.0,64.0,4.54,64,8.0,2500,1199,InFocus POWER 2
+Blacear,I7 Trio,3.7,6.0,32.0,2.0,64,8.0,1550,1699,Blacear I7 Trio
+Karbonn,K451 Power,3.8,6.0,32.0,4.54,48,8.0,3000,1349,Karbonn K451 Power
+Micax,X742,3.8,6.0,32.0,4.54,25,8.0,3000,1240,Micax X742
+Snexian,GURU 106,4.1,6.0,32.0,4.5,25,8.0,1080,649,Snexian GURU 106
+Snexian,Guru 106,4.1,6.0,32.0,4.5,25,8.0,1080,649,Snexian Guru 106
+Micax,X512,3.9,4.0,24.0,4.77,48,8.0,1750,984,Micax X512
+Kechaoda,K10,4.0,6.0,32.0,3.7,16,8.0,3000,975,Kechaoda K10
+Kechaoda,K66 Plus,4.1,6.0,64.0,4.5,48,8.0,3000,985,Kechaoda K66 Plus
+Redmi,K20 Pro,4.5,6.0,128.0,6.39,48,13.0,3800,24999,"Redmi K20 Pro (Carbon Black, 128 )"
+Micax,X809,3.9,6.0,32.0,4.54,25,8.0,3000,1329,Micax X809
+I Kall,K6610,3.5,6.0,64.0,4.5,48,8.0,3000,599,I Kall K6610
+OnePlus,7T,4.6,8.0,256.0,6.55,48,1.0,3000,38050,"OnePlus 7T (Glacier Blue, 256 )"
+OnePlus,7T,4.6,8.0,128.0,6.55,48,1.0,3000,37319,"OnePlus 7T (Frosted Silver, 128 )"
+Apple,iPhone 7 Plus,4.5,6.0,64.0,5.5,35,12.0,3500,36999,"Apple iPhone 7 Plus (Gold, 32 )"
+Realme,X2 Pro,4.5,8.0,128.0,6.5,64,13.0,3800,31999,"Realme X2 Pro (Lur White, 128 )"
+Realme,X2 Pro,4.6,12.0,25.0,6.5,64,13.0,3800,35999,"Realme X2 Pro (Lur White, 256 )"
+Realme,X2 Pro,4.5,8.0,128.0,6.5,64,13.0,3800,31999,"Realme X2 Pro (Neptune Blue, 128 )"
+Honor,9X,4.4,6.0,128.0,6.59,48,8.0,3800,16999,"Honor 9X (Sapphire Blue, 128 )"
+Vivo,Y91i,4.4,2.0,32.0,6.22,38,5.0,4030,8996,"Vivo Y91i (Black, 32 )"
+Samsung,Galaxy M31,4.5,6.0,128.0,6.4,64,8.0,6000,19900,"Samsung Galaxy M31 (Space Black, 128 )"
+iQOO,3,4.4,8.0,128.0,6.44,48,13.0,4440,34990,"iQOO 3 (Tordo Black, 128 )"
+Lava,One,4.1,6.0,32.0,4.54,48,8.0,3000,1699,Lava One
+Easyfone,Star,3.8,6.0,32.0,4.7,64,8.0,3500,3999,Easyfone Star
+Easyfone,Star,3.8,6.0,32.0,4.7,64,5.0,3000,3999,Easyfone Star
+Samsung,Galaxy A20s,4.3,4.0,64.0,6.5,38,8.0,3800,14999,"Samsung Galaxy A20s (Blue, 64 )"
+Vivo,V17,4.5,8.0,128.0,6.44,48,8.0,4700,24990,"Vivo V17 (Glacier ice white, 128 )"
+Apple,iPhone 11,4.7,8.0,64.0,6.1,35,12.0,5000,68300,"Apple iPhone 11 (Red, 64 )"
+Kechaoda,K66 Plus,4.1,6.0,32.0,4.4,48,8.0,2500,985,Kechaoda K66 Plus
+Kechaoda,K10,4.0,6.0,32.0,3.7,16,8.0,3000,980,Kechaoda K10
+BlackZone,ATOM,3.0,8.0,64.0,4.54,48,8.0,3800,899,BlackZone ATOM
+Vivo,S1,4.5,4.0,128.0,6.38,48,8.0,4700,16990,"Vivo S1 (Diamond Black, 128 )"
+Kechaoda,K115,4.1,6.0,32.0,4.4,48,8.0,2500,935,Kechaoda K115
+Apple,iPhone 8,4.5,8.0,64.0,4.7,35,7.0,5000,38999,"Apple iPhone 8 (Space Grey, 64 )"
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,8.0,5000,930,Kechaoda A27
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,5.0,3500,980,Kechaoda A27
+Samsung,Galaxy Note10 Lite,4.5,8.0,128.0,6.7,35,12.0,4700,39999,"Samsung Galaxy Note10 Lite (Aura Black, 128 )"
+Nokia,3.2,4.1,3.0,32.0,6.26,38,8.0,3800,9999,"Nokia 3.2 (Black, 32 )"
+Samsung,Galaxy A21s,4.3,6.0,64.0,6.5,48,8.0,5000,18499,"Samsung Galaxy A21s (White, 64 )"
+Micax,X421,3.9,6.0,32.0,4.77,48,8.0,2800,1099,Micax X421
+Micax,X421,3.9,6.0,32.0,4.77,48,5.0,2800,982,Micax X421
+Blacear,B5 Tork,4.1,8.0,64.0,4.5,16,8.0,3000,799,Blacear B5 Tork
+iQOO,3,4.4,8.0,128.0,6.44,48,13.0,4440,34990,"iQOO 3 (Quantum Silver, 128 )"
+iQOO,3,4.4,8.0,256.0,6.44,48,13.0,4440,37990,"iQOO 3 (Quantum Silver, 256 )"
+Vivo,Y91i,4.3,3.0,32.0,6.22,38,8.0,4030,10169,"Vivo Y91i (Black, 32 )"
+Samsung,Guru 1200,4.3,6.0,64.0,4.4,64,8.0,3500,1346,Samsung Guru 1200
+Redmi,Note 8 Pro,4.4,6.0,64.0,6.53,64,8.0,4700,16899,"Redmi Note 8 Pro (Electric Blue, 64 )"
+Google,Pixel 3a,4.5,4.0,64.0,5.6,35,20.0,3000,30999,"Google Pixel 3a (Clearly White, 64 )"
+Salora,VOLT 2,3.9,6.0,32.0,4.5,64,8.0,2000,749,Salora VOLT 2
+Samsung,Galaxy A21s,4.3,6.0,64.0,6.5,48,8.0,5000,18499,"Samsung Galaxy A21s (Black, 64 )"
+Good,One Magic,4.1,6.0,32.0,4.7,48,5.0,3000,1499,Good One Magic
+Karbonn,K140 Pop,3.9,6.0,32.0,4.5,48,5.0,3000,849,Karbonn K140 Pop
+Lava,A1,4.0,6.0,32.0,4.5,48,5.0,3000,1049,Lava A1
+Detel,D1 Cha,3.7,6.0,32.0,4.5,48,8.0,3000,649,Detel D1 Cha
+Mi,Mix 2,4.3,6.0,128.0,5.99,35,5.0,3700,16999,"Mi Mix 2 (Black, 128 )"
+Vivo,V19,4.4,8.0,256.0,6.44,48,8.0,4700,31990,"Vivo V19 (Piano Black, 256 )"
+Hicell,C5,3.6,6.0,64.0,4.5,48,8.0,3500,629,Hicell C5
+Kechaoda,K33,4.1,6.0,32.0,44.0,48,5.0,3000,970,Kechaoda K33
+Samsung,Galaxy Note10 Lite,4.5,8.0,128.0,6.7,35,12.0,4700,39999,"Samsung Galaxy Note10 Lite (Aura Glow, 128 )"
+Karbonn,KX24,3.9,6.0,32.0,4.54,48,8.0,3000,1349,Karbonn KX24
+Micax,X1i Power,3.9,6.0,32.0,4.54,48,5.0,1750,1110,Micax X1i Power
+Kechaoda,K-55 Plus,4.0,8.0,40.0,4.77,48,8.0,2500,1045,Kechaoda K-55 Plus
+Honor,20,4.4,6.0,128.0,6.26,48,2.0,3750,22999,"Honor 20 (Midnight Black, 128 )"
+I Kall,K34 New,3.6,6.0,64.0,4.5,48,8.0,3000,649,I Kall K34 New
+OPPO,Reno3 Pro,4.4,8.0,128.0,6.4,64,13.0,4025,29990,"OPPO Reno3 Pro (Midnight Black, 128 )"
+Samsung,Galaxy A71,4.4,8.0,128.0,6.7,64,12.0,4700,32999,"Samsung Galaxy A71 (Prism Crush Black, 128 )"
+Redmi,K20 Pro,4.5,6.0,128.0,6.39,48,13.0,3000,24999,"Redmi K20 Pro (Pearl White, 128 )"
+I Kall,K6610,3.5,6.0,64.0,4.5,48,5.0,3000,599,I Kall K6610
+Nokia,150,4.2,4.0,4.0,4.54,48,8.0,1020,2135,Nokia 150
+iQOO,3,4.4,12.0,25.0,6.44,48,13.0,4440,44990,"iQOO 3 (5G) (Tordo Black, 256 )"
+OPPO,Reno 10x Zoom,4.5,8.0,256.0,6.6,48,13.0,4065,41990,"OPPO Reno 10x Zoom (Ocean Green, 256 )"
+Blacear,B5 Nex,3.7,8.0,64.0,4.5,64,8.0,1050,799,Blacear B5 Nex
+Realme,2 Pro,4.5,8.0,128.0,6.3,48,2.0,3500,15490,"Realme 2 Pro (Black Sea, 128 )"
+Hicell,C2 Dezire,3.4,6.0,32.0,4.5,48,5.0,1050,629,Hicell C2 Dezire
+Realme,X2 Pro,4.5,6.0,64.0,6.5,64,13.0,3800,29999,"Realme X2 Pro (Neptune Blue, 64 )"
+Hicell,C2 Dezire,3.4,6.0,32.0,4.5,48,8.0,1050,629,Hicell C2 Dezire
+Vivo,V19,4.4,8.0,256.0,6.44,48,8.0,4700,31990,"Vivo V19 (Mystic Silver, 256 )"
+OnePlus,7T Pro,4.6,8.0,256.0,6.67,48,1.0,4085,46970,"OnePlus 7T Pro (Haze Blue, 256 )"
+Micax,X750,4.2,6.0,32.0,4.54,48,5.0,2500,1259,Micax X750
+Lava,34 Plus,4.2,6.0,32.0,4.54,64,8.0,2500,1619,Lava 34 Plus
+Redmi,Note 6 Pro,4.5,4.0,64.0,6.26,35,5.0,3000,14995,"Redmi Note 6 Pro (Red, 64 )"
+Nokia,106,4.2,4.0,4.0,4.5,64,5.0,3500,1349,Nokia 106
+Blacear,C-99 Sultan,3.6,8.0,64.0,4.54,64,5.0,2500,1079,Blacear C-99 Sultan
+Easyfone,Royale,4.1,6.0,32.0,4.54,48,20.0,3500,3399,Easyfone Royale
+Kechaoda,K115,4.1,6.0,32.0,4.4,48,12.0,2500,970,Kechaoda K115
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,12.0,3500,945,Kechaoda A27
+Karbonn,K9 SPY,3.9,4.0,64.0,4.54,64,8.0,1750,1399,Karbonn K9 SPY
+OPPO,A9 2020,4.3,8.0,128.0,6.52,48,8.0,5000,15990,"OPPO A9 2020 (Vanilla Mint, 128 )"
+I Kall,K33 New,3.7,6.0,64.0,4.54,48,12.0,1500,749,I Kall K33 New
+Kechaoda,K116 Plus,4.0,6.0,32.0,4.77,48,12.0,3800,980,Kechaoda K116 Plus
+OPPO,F11 Pro,4.4,6.0,128.0,6.5,48,5.0,3800,17990,"OPPO F11 Pro (Aurora Green, 128 )"
+Lava,Gem,4.3,6.0,32.0,4.58,64,12.0,1750,1799,Lava Gem
+MTR,Ferrari,4.1,8.0,64.0,4.77,48,8.0,3800,1275,MTR Ferrari
+MTR,Ferrari,4.1,8.0,64.0,4.77,48,8.0,5000,1275,MTR Ferrari
+MTR,Ferrari,4.1,8.0,64.0,4.77,48,8.0,3000,1275,MTR Ferrari
+Itel,IT 2163,4.0,6.0,32.0,4.5,48,12.0,3000,949,Itel IT 2163
+Google,Pixel 3a,4.5,4.0,64.0,5.6,35,20.0,3000,30999,"Google Pixel 3a (Just Black, 64 )"
+Samsung,Galaxy M31,4.5,6.0,128.0,6.4,64,8.0,6000,19900,"Samsung Galaxy M31 (Ocean Blue, 128 )"
+BlackZone,M4,3.8,6.0,32.0,4.4,48,8.0,2500,705,BlackZone M4
+BlackZone,M4,3.8,6.0,32.0,4.4,48,12.0,2500,705,BlackZone M4
+Lava,Z41,4.1,1.0,16.0,5.0,5,2.0,2500,5049,"Lava Z41 (Aer Red, 16 )"
+Redmi,K20,4.5,6.0,64.0,6.39,48,13.0,3800,21999,"Redmi K20 (Carbon Black, 64 )"
+Apple,iPhone 7 Plus,4.5,6.0,64.0,5.5,35,12.0,3500,36999,"Apple iPhone 7 Plus (Rose Gold, 32 )"
+Karbonn,k24+,3.8,6.0,32.0,4.54,48,12.0,2800,1149,Karbonn k24+
+Itel,Magic 1,4.2,6.0,32.0,4.54,48,20.0,1200,1499,Itel Magic 1
+Salora,Volt 2,3.9,6.0,32.0,4.5,64,12.0,2000,749,Salora Volt 2
+Lava,A7 Wave,4.2,8.0,51.0,4.54,48,8.0,1750,1599,Lava A7 Wave
+OPPO,Reno3 Pro,4.4,8.0,128.0,6.4,64,13.0,4025,29990,"OPPO Reno3 Pro (Sky White, 128 )"
+OPPO,Reno3 Pro,4.4,8.0,128.0,6.4,64,13.0,4025,29990,"OPPO Reno3 Pro (Auroral Blue, 128 )"
+Jivi,N3,3.7,0.0,64.0,4.54,64,8.0,3500,949,Jivi N3
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,15.0,3500,970,Kechaoda A27
+I Kall,K25 New,3.5,6.0,64.0,4.5,48,8.0,3000,649,I Kall K25 New
+Redmi,Note 6 Pro,4.5,6.0,64.0,6.26,35,5.0,3000,16675,"Redmi Note 6 Pro (Rose Gold, 64 )"
+Micax,X381,3.8,6.0,32.0,4.77,48,15.0,3000,959,Micax X381
+Micax,X381,3.8,6.0,32.0,4.77,48,15.0,3000,995,Micax X381
+Vivo,S1,4.4,6.0,64.0,6.38,48,8.0,4700,18990,"Vivo S1 (Skyline Blue, 64 )"
+Salora,Coral,3.7,6.0,32.0,4.54,64,8.0,2800,899,Salora Coral
+Kechaoda,K33,4.1,6.0,32.0,44.0,48,15.0,3000,935,Kechaoda K33
+Kechaoda,K33,4.1,6.0,32.0,44.0,48,15.0,3000,970,Kechaoda K33
+Kechaoda,K33,4.1,6.0,32.0,44.0,48,15.0,3000,940,Kechaoda K33
+Vivo,Y15,4.4,4.0,64.0,6.35,38,2.0,5000,12900,"Vivo Y15 (Burgundy Red, 64 )"
+Lava,34,4.0,6.0,32.0,4.54,64,8.0,2500,1699,Lava 34
+I Kall,K28 Coo of Two Mobiles,3.4,6.0,64.0,4.54,20,8.0,3500,1299,I Kall K28 Coo of Two Mobiles
+OnePlus,7 Pro,4.5,8.0,256.0,6.67,48,8.0,3800,42990,"OnePlus 7 Pro (Nebula Blue, 256 )"
+OnePlus,7 Pro,4.6,6.0,128.0,6.67,48,8.0,3800,42990,"OnePlus 7 Pro (Mirror Grey, 128 )"
+Lenovo,A5,4.0,3.0,32.0,5.4,38,8.0,3800,7999,"Lenovo A5 (Black, 32 )"
+Samsung,Galaxy S20+,4.5,8.0,128.0,6.7,64,1.0,4700,77999,"Samsung Galaxy S20+ (Cloud Blue, 128 )"
+Blacear,I7 Trio,3.7,6.0,32.0,2.0,64,16.0,1550,1699,Blacear I7 Trio
+Karbonn,K451 Power,3.8,6.0,32.0,4.54,48,16.0,3000,1349,Karbonn K451 Power
+Lava,A3,4.2,4.0,3.0,4.77,48,8.0,1750,1299,Lava A3
+Apple,iPhone 11 Pro,4.7,8.0,64.0,5.8,35,12.0,5000,140300,"Apple iPhone 11 Pro (Silver, 512 )"
+Samsung,Galaxy S10,4.6,8.0,128.0,6.1,48,12.0,3000,563000,"Samsung Galaxy S10 (Prism White, 512 )"
+Lava,A1,4.2,12.0,24.0,4.77,48,8.0,3000,1149,Lava A1
+OnePlus,6T,4.1,10.0,25.0,6.41,48,2.0,3000,39999,"OnePlus 6T (Speed Orange, 256 )"
+Micax,Canvas Infinity,4.1,3.0,32.0,5.7,38,1.0,2900,9990,"Micax Canvas Infinity (Black, 32 )"
+Lava,A1 Josh,4.2,4.0,64.0,4.5,64,8.0,3500,1098,Lava A1 Josh
+Lava,A1 Josh,4.2,4.0,64.0,4.5,64,16.0,3000,1099,Lava A1 Josh
+I Kall,K3312 Coo,3.5,6.0,64.0,4.5,48,16.0,3000,1199,I Kall K3312 Coo
+Micax,X749,4.2,6.0,32.0,4.54,48,61.0,1750,1390,Micax X749
+Blacear,i7 Trio,3.8,12.0,24.0,2.0,64,8.0,1550,1690,Blacear i7 Trio
+Karbonn,K334,3.7,6.0,32.0,4.77,48,8.0,1750,927,Karbonn K334
+Vivo,V15 Pro,4.5,6.0,128.0,6.39,48,32.0,3000,21099,"Vivo V15 Pro (Ruby Red, 128 )"
+Apple,iPhone 7 Plus,4.5,6.0,64.0,5.5,35,12.0,3500,36999,"Apple iPhone 7 Plus (Silver, 32 )"
+Snexian,Guru 332,4.1,6.0,32.0,4.5,64,8.0,3000,649,Snexian Guru 332
+Snexian,Guru 332,4.1,6.0,32.0,4.5,64,8.0,3000,649,Snexian Guru 332
+Lava,Prime X,4.1,6.0,32.0,4.5,64,8.0,3000,1599,Lava Prime X
+I Kall,K23 New Mobile,3.6,8.0,32.0,4.5,48,8.0,3000,649,I Kall K23 New Mobile
+Lava,A7,4.2,6.0,24.0,4.54,48,8.0,1750,1799,Lava A7
+Apple,"iPhone XR RED, 128 )",4.6,12.0,64.0,6.1,35,7.0,3500,573000,"Apple iPhone XR ((PRODUCT)RED, 128 )"
+Micax,X749,4.2,6.0,32.0,4.54,48,5.0,1750,1549,Micax X749
+Karbonn,K-Pebble,3.9,12.0,12.0,4.54,48,5.0,3000,1579,Karbonn K-Pebble
+Karbonn,KX21,3.9,6.0,32.0,4.54,48,8.0,3000,1330,Karbonn KX21
+OPPO,R17 Pro,4.1,8.0,128.0,6.4,35,20.0,3000,31590,"OPPO R17 Pro (Emerald Green, 128 )"
+Inovu,A9,3.6,6.0,32.0,4.54,38,20.0,1200,945,Inovu A9
+Inovu,A9,3.6,6.0,32.0,4.54,38,0.0,1200,945,Inovu A9
+LG,Q Stylus,3.8,3.0,32.0,6.2,48,8.0,3000,15899,"LG Q Stylus (Black, 32 )"
+Meizu,C9 Pro,4.1,3.0,32.0,5.4,38,5.0,3000,7490,"Meizu C9 Pro (Black, 32 )"
+Micax,X516,3.9,6.0,32.0,4.77,48,8.0,1750,1451,Micax X516
+Jivi,R21Plus,4.3,1.0,16.0,4.5,48,8.0,3000,869,Jivi R21Plus
+Jivi,R21Plus,4.3,1.0,16.0,4.5,48,8.0,3000,798,Jivi R21Plus
+Snexian,Guru 324,4.1,6.0,32.0,4.5,64,8.0,3000,649,Snexian Guru 324
+Kechaoda,K2,3.9,6.0,32.0,4.5,48,11.0,3000,900,Kechaoda K2
+Snexian,Guru 324,4.1,6.0,32.0,4.5,64,8.0,3000,649,Snexian Guru 324
+Nokia,105 SS,4.3,4.0,4.0,4.77,64,11.0,3500,1349,Nokia 105 SS
+Moto,One,4.1,4.0,64.0,5.9,38,2.0,3000,14999,"Moto One (White, 64 )"
+LG,Q7+,3.4,4.0,64.0,5.5,48,5.0,3000,13999,"LG Q7+ (Black, 64 )"
+Vivo,V17Pro,4.5,8.0,128.0,6.44,48,13.0,4100,29499,"Vivo V17Pro (Midnight Ocean Black, 128 )"
+Nokia,105,4.2,4.0,4.0,4.5,64,13.0,3500,1599,Nokia 105
+Vivo,Y91i,4.4,2.0,16.0,6.22,38,5.0,4030,9350,"Vivo Y91i (Ocean Blue, 16 )"
+Samsung,Galaxy A50,4.4,6.0,64.0,6.4,48,5.0,3800,18999,"Samsung Galaxy A50 (Blue, 64 )"
+Lava,34,4.0,6.0,32.0,4.54,64,8.0,2500,1695,Lava 34
+Nokia,3310 DS,3.8,4.0,64.0,4.54,48,8.0,1200,3580,Nokia 3310 DS
+Apple,iPhone 11 Pro Max,4.7,8.0,64.0,6.5,35,12.0,3500,117100,"Apple iPhone 11 Pro Max (Gold, 64 )"
+Samsung,Galaxy S8 Plus,4.6,4.0,64.0,6.2,35,8.0,3500,53990,"Samsung Galaxy S8 Plus (Midnight Black, 64 )"
+Black,Shark 2,4.4,6.0,128.0,6.39,48,12.0,3800,31999,"Black Shark 2 (Shadow Black, 128 )"
+InFocus,Vibe 1,3.6,6.0,32.0,4.5,48,8.0,3000,898,InFocus Vibe 1
+Karbonn,K24 Plus Pro,3.8,6.0,32.0,4.54,48,8.0,2800,1299,Karbonn K24 Plus Pro
+Alcatel,5V,4.4,3.0,32.0,6.2,48,1.0,3800,9790,"Alcatel 5V (Spectrum Blue, 32 )"
+JIVI,JV 12M,3.7,10.0,32.0,4.5,64,8.0,3500,799,JIVI JV 12M
+Blacear,B5 Grip,3.5,6.0,32.0,4.5,64,14.0,1050,799,Blacear B5 Grip
+Kechaoda,A32,3.8,6.0,32.0,4.4,48,14.0,3000,930,Kechaoda A32
+Kechaoda,A32,3.8,6.0,32.0,4.4,48,8.0,3000,930,Kechaoda A32
+Redmi,Note 5 Pro,4.5,6.0,64.0,5.99,35,5.0,3800,13999,"Redmi Note 5 Pro (Gold, 64 )"
+Apple,iPhone 8 RED,4.7,12.0,64.0,4.7,35,7.0,3500,56999,"Apple iPhone 8 (PRODUCT)RED (Red, 256 )"
+Apple,iPhone 11,4.7,8.0,64.0,6.1,35,12.0,3500,68300,"Apple iPhone 11 (Yellow, 64 )"
+Easyfone,Elite,4.1,6.0,32.0,4.54,48,20.0,3000,3149,Easyfone Elite
+JIVI,12M,3.6,1.0,32.0,4.5,48,8.0,3500,799,JIVI 12M
+Lava,GEM,4.2,8.0,40.0,4.58,64,8.0,1750,1840,Lava GEM
+Samsung,Galaxy A9,4.4,6.0,128.0,6.3,26,5.0,3000,27999,"Samsung Galaxy A9 (Bubblegum Pink, 128 )"
+Ssky,K-2,3.6,6.0,35.0,4.5,64,8.0,1050,849,Ssky K-2
+Vivo,"V9 , 64 )",4.5,4.0,64.0,6.3,48,5.0,3260,23990,"Vivo V9 (Pearl Black (Golden Line), 64 )"
+Vivo,NEX,4.2,8.0,128.0,6.59,35,5.0,3800,29990,"Vivo NEX (Black, 128 )"
+Honor,9 Lite,4.3,3.0,32.0,5.65,38,2.0,3000,13999,"Honor 9 Lite (Sapphire Blue, 32 )"
+Samsung,Galaxy S20+,4.5,8.0,128.0,6.7,64,1.0,4700,77999,"Samsung Galaxy S20+ (Cosmic Gray, 128 )"
+Apple,iPhone XR,4.6,12.0,64.0,6.1,35,7.0,3500,573000,"Apple iPhone XR (Coral, 128 )"
+Lenovo,VIBE P1,4.1,2.0,32.0,5.5,38,5.0,4900,15999,"Lenovo VIBE P1 (Grey, 32 )"
+Ssky,S-20 Eco,3.8,6.0,64.0,4.5,64,8.0,3000,749,Ssky S-20 Eco
+Ssky,S-20 Eco,3.8,6.0,64.0,4.5,64,8.0,3000,749,Ssky S-20 Eco
+Redmi,Note 7S,4.4,3.0,32.0,6.3,48,5.0,3800,9999,"Redmi Note 7S (Sapphire Blue, 32 )"
+Karbonn,K2 Boom Box,3.9,6.0,32.0,4.5,48,8.0,3000,999,Karbonn K2 Boom Box
+Apple,iPhone 11 Pro,4.7,8.0,64.0,5.8,35,12.0,3500,106600,"Apple iPhone 11 Pro (Gold, 64 )"
+Nexus,6P Special Edit,4.3,3.0,64.0,5.7,35,20.0,3500,42998,"Nexus 6P Special Edit (Gold, 64 )"
+Vivo,Y19,4.4,4.0,128.0,6.53,48,8.0,5000,16299,"Vivo Y19 (Spring White, 128 )"
+Dublin,D614,4.1,6.0,64.0,4.54,48,8.0,2800,649,Dublin D614
+Lava,A1,4.2,12.0,24.0,4.77,48,8.0,5000,3000,Lava A1
+OPPO,A1K,4.3,2.0,32.0,6.1,8,5.0,3800,8490,"OPPO A1K (Red, 32 )"
+OPPO,K1,4.4,6.0,64.0,6.41,48,13.0,3600,18989,"OPPO K1 (Piano Black, 64 )"
+Itel,it5260,4.1,6.0,32.0,4.54,48,13.0,1900,1570,Itel it5260
+Kechaoda,K112,3.9,6.0,64.0,4.54,48,8.0,3600,1799,Kechaoda K112
+Gee,S11 Lite,4.0,4.0,32.0,5.7,38,2.0,3030,9999,"Gee S11 Lite (Gold, 32 )"
+Nokia,105 Dual Sim 2017,4.2,4.0,4.0,4.5,64,8.0,3500,1149,Nokia 105 Dual Sim 2017
+Jivi,N300 New,3.9,5.0,32.0,4.54,48,8.0,3000,999,Jivi N300 New
+Jivi,N300 New,3.9,5.0,32.0,4.54,48,8.0,3000,1049,Jivi N300 New
+Jivi,N9030,3.9,1.0,16.0,4.58,48,8.0,3000,1399,Jivi N9030
+OPPO,Reno2,4.5,8.0,256.0,6.5,48,8.0,3800,38990,"OPPO Reno2 (Ocean Blue, 256 )"
+Easyfone,Udaan,4.0,6.0,32.0,4.77,48,8.0,3000,2100,Easyfone Udaan
+Micax,X940,3.8,12.0,56.0,4.57,48,13.0,3000,1799,Micax X940
+Samsung,Guru 1200,4.3,6.0,64.0,4.4,64,13.0,3500,1100,Samsung Guru 1200
+Realme,3 Pro,4.5,6.0,64.0,6.3,48,5.0,4045,15999,"Realme 3 Pro (Nitro Blue, 64 )"
+Karbonn,KX21,3.9,6.0,32.0,4.54,48,13.0,3000,1330,Karbonn KX21
+Micax,X749,4.2,6.0,32.0,4.54,48,13.0,1750,1549,Micax X749
+Itel,it2161,4.0,6.0,32.0,4.5,48,13.0,3000,847,Itel it2161
+Karbonn,K-Pebble,3.9,12.0,12.0,4.54,48,8.0,3000,1579,Karbonn K-Pebble
+Inovu,A9,3.6,6.0,32.0,4.54,38,20.0,1200,945,Inovu A9
+Inovu,A9,3.6,6.0,32.0,4.54,38,0.0,1200,945,Inovu A9
+LG,Q Stylus,3.8,3.0,32.0,6.2,48,8.0,3000,15899,"LG Q Stylus (Black, 32 )"
+OPPO,R17 Pro,4.1,8.0,128.0,6.4,35,20.0,3000,31590,"OPPO R17 Pro (Emerald Green, 128 )"
+Micax,X516,3.9,6.0,32.0,4.77,48,8.0,1750,1451,Micax X516
+Moto,One,4.1,4.0,64.0,5.9,38,2.0,3000,14999,"Moto One (White, 64 )"
+Meizu,C9 Pro,4.1,3.0,32.0,5.4,38,5.0,3000,7490,"Meizu C9 Pro (Black, 32 )"
+Jivi,R21Plus,4.3,1.0,16.0,4.5,48,8.0,3000,869,Jivi R21Plus
+Jivi,R21Plus,4.3,1.0,16.0,4.5,48,8.0,3000,798,Jivi R21Plus
+OPPO,A5s,4.3,4.0,64.0,6.2,38,2.0,4230,15656,"OPPO A5s (Gold, 64 )"
+Gfive,U229 Coo of Two,3.9,6.0,32.0,4.5,64,8.0,3000,1089,Gfive U229 Coo of Two
+Snexian,Guru 324,4.1,6.0,32.0,4.5,64,15.0,3000,649,Snexian Guru 324
+Kechaoda,K2,3.9,6.0,32.0,4.5,48,15.0,3000,900,Kechaoda K2
+Snexian,Guru 324,4.1,6.0,32.0,4.5,64,8.0,3000,649,Snexian Guru 324
+Nokia,105,4.2,4.0,4.0,4.5,64,13.0,3500,1575,Nokia 105
+Redmi,K20,4.5,6.0,128.0,6.39,48,13.0,3800,24999,"Redmi K20 (Glacier Blue, 128 )"
+Nokia,105 SS,4.3,4.0,4.0,4.77,64,8.0,3500,1349,Nokia 105 SS
+LG,Q7+,3.4,4.0,64.0,5.5,48,5.0,3000,13999,"LG Q7+ (Black, 64 )"
+Jivi,N3,4.1,6.0,32.0,4.54,64,20.0,3500,949,Jivi N3
+Lava,34,4.0,6.0,32.0,4.54,64,8.0,2500,1695,Lava 34
+Karbonn,K24 Plus Pro,3.8,6.0,32.0,4.54,48,8.0,2800,1299,Karbonn K24 Plus Pro
+Apple,iPhone 11 Pro,4.7,12.0,64.0,5.8,35,12.0,3500,121300,"Apple iPhone 11 Pro (Space Grey, 256 )"
+JIVI,JV 12M,3.7,10.0,32.0,4.5,64,8.0,3500,799,JIVI JV 12M
+Alcatel,5V,4.4,3.0,32.0,6.2,48,1.0,3800,9790,"Alcatel 5V (Spectrum Blue, 32 )"
+Blacear,B5 Grip,3.5,6.0,32.0,4.5,64,8.0,1050,799,Blacear B5 Grip
+Redmi,Note 5 Pro,4.5,6.0,64.0,5.99,35,5.0,3800,13999,"Redmi Note 5 Pro (Gold, 64 )"
+Kechaoda,A32,3.8,6.0,32.0,4.4,48,8.0,3800,930,Kechaoda A32
+Kechaoda,A32,3.8,6.0,32.0,4.4,48,32.0,3800,930,Kechaoda A32
+Redmi,K20,4.5,6.0,128.0,6.39,48,13.0,3800,24999,"Redmi K20 (Flame Red, 128 )"
+Salora,Vishaal,3.8,6.0,32.0,4.54,64,23.0,4100,1149,Salora Vishaal
+Apple,iPhone 8 RED,4.7,12.0,64.0,4.7,35,7.0,3500,56999,"Apple iPhone 8 (PRODUCT)RED (Red, 256 )"
+Gee,F103 Pro,3.9,3.0,16.0,5.0,38,5.0,2500,8798,"Gee F103 Pro (Grey, 16 )"
+Gee,F103 Pro,3.9,3.0,16.0,5.0,38,5.0,4200,8990,"Gee F103 Pro (Gold, 16 )"
+Apple,iPhone 11,4.7,8.0,64.0,6.1,35,12.0,3500,68300,"Apple iPhone 11 (Yellow, 64 )"
+Easyfone,Elite,4.1,6.0,32.0,4.54,48,20.0,3000,3149,Easyfone Elite
+Lava,PRIME Z,4.1,6.0,32.0,4.54,64,8.0,1200,1599,Lava PRIME Z
+Apple,iPhone 8 Plus,4.6,12.0,64.0,5.5,35,12.0,3500,67820,"Apple iPhone 8 Plus (Gold, 256 )"
+Lava,GEM,4.2,8.0,64.0,4.58,64,8.0,1750,1840,Lava GEM
+JIVI,12M,3.6,1.0,32.0,4.5,48,8.0,3500,799,JIVI 12M
+Ssky,K-2,3.6,6.0,35.0,4.5,64,8.0,1050,849,Ssky K-2
+Samsung,Galaxy A9,4.4,6.0,128.0,6.3,26,5.0,3000,27999,"Samsung Galaxy A9 (Bubblegum Pink, 128 )"
+Honor,9 Lite,4.3,3.0,32.0,5.65,38,2.0,3000,13999,"Honor 9 Lite (Sapphire Blue, 32 )"
+Vivo,"V9 , 64 )",4.5,4.0,64.0,6.3,48,5.0,3260,23990,"Vivo V9 (Pearl Black (Golden Line), 64 )"
+Vivo,NEX,4.2,8.0,128.0,6.59,35,5.0,3800,29990,"Vivo NEX (Black, 128 )"
+Gfive,Guru,3.7,12.0,64.0,4.5,48,8.0,1050,699,Gfive Guru
+Micax,X512,3.9,4.0,24.0,4.77,48,8.0,1750,984,Micax X512
+Snexian,GURU 106,4.1,6.0,32.0,4.5,25,8.0,1080,649,Snexian GURU 106
+Samsung,Galaxy A51,4.4,6.0,128.0,6.4,48,12.0,3800,25250,"Samsung Galaxy A51 (Prism Crush White, 128 )"
+Snexian,Guru 106,4.1,6.0,32.0,4.5,25,8.0,1080,649,Snexian Guru 106
+Kechaoda,K10,4.0,6.0,32.0,3.7,16,8.0,3000,975,Kechaoda K10
+Micax,X809,3.9,6.0,32.0,4.54,25,8.0,3000,1329,Micax X809
+Redmi,K20 Pro,4.5,6.0,128.0,6.39,48,13.0,3000,24999,"Redmi K20 Pro (Carbon Black, 128 )"
+Kechaoda,K66 Plus,4.1,6.0,64.0,4.5,48,8.0,3000,985,Kechaoda K66 Plus
+OnePlus,7T,4.6,8.0,256.0,6.55,48,1.0,3000,38050,"OnePlus 7T (Glacier Blue, 256 )"
+OnePlus,7T,4.6,8.0,128.0,6.55,48,1.0,3000,37319,"OnePlus 7T (Frosted Silver, 128 )"
+I Kall,K6610,3.5,6.0,64.0,4.5,48,8.0,3000,599,I Kall K6610
+Apple,iPhone 7 Plus,4.5,6.0,64.0,5.5,35,12.0,3500,36999,"Apple iPhone 7 Plus (Gold, 32 )"
+Realme,X2 Pro,4.6,12.0,25.0,6.5,64,13.0,3800,35999,"Realme X2 Pro (Lur White, 256 )"
+Realme,X2 Pro,4.5,8.0,128.0,6.5,64,13.0,3800,31999,"Realme X2 Pro (Lur White, 128 )"
+Realme,X2 Pro,4.5,8.0,128.0,6.5,64,13.0,3800,31999,"Realme X2 Pro (Neptune Blue, 128 )"
+Vivo,Y91i,4.4,2.0,32.0,6.22,38,5.0,4030,8995,"Vivo Y91i (Black, 32 )"
+Micax,X412,3.9,6.0,32.0,4.77,25,8.0,3000,899,Micax X412
+Samsung,Galaxy M31,4.5,6.0,128.0,6.4,64,8.0,6000,19900,"Samsung Galaxy M31 (Space Black, 128 )"
+OPPO,A9 2020,4.4,4.0,128.0,6.5,48,8.0,5000,16990,"OPPO A9 2020 (Marine Green, 128 )"
+Apple,iPhone 6s,4.5,6.0,64.0,4.7,35,5.0,3500,28999,"Apple iPhone 6s (Space Grey, 32 )"
+iQOO,3,4.4,8.0,128.0,6.44,48,13.0,4440,34990,"iQOO 3 (Tordo Black, 128 )"
+Nokia,2.3,4.0,2.0,32.0,6.2,38,2.0,3800,9989,"Nokia 2.3 (Charcoal, 32 )"
+Lava,One,4.1,6.0,32.0,4.54,48,5.0,3000,1699,Lava One
+Easyfone,Star,3.8,6.0,32.0,4.7,64,5.0,5000,3999,Easyfone Star
+Easyfone,Star,3.8,6.0,32.0,4.7,64,8.0,3400,3999,Easyfone Star
+Vivo,V17,4.5,8.0,128.0,6.44,48,8.0,4700,24990,"Vivo V17 (Glacier ice white, 128 )"
+Apple,iPhone 11,4.7,8.0,64.0,6.1,35,12.0,3500,68300,"Apple iPhone 11 (Red, 64 )"
+Kechaoda,K66 Plus,4.1,6.0,32.0,4.4,48,8.0,2500,985,Kechaoda K66 Plus
+Kechaoda,K10,4.0,6.0,32.0,3.7,16,23.0,3000,980,Kechaoda K10
+BlackZone,ATOM,3.0,8.0,64.0,4.54,48,23.0,3800,899,BlackZone ATOM
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,8.0,3500,980,Kechaoda A27
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,23.0,3500,930,Kechaoda A27
+Kechaoda,K115,4.1,6.0,32.0,4.4,48,8.0,2500,935,Kechaoda K115
+Vivo,S1,4.5,4.0,128.0,6.38,48,8.0,4700,16990,"Vivo S1 (Diamond Black, 128 )"
+Samsung,Galaxy Note10 Lite,4.5,8.0,128.0,6.7,35,12.0,4700,39999,"Samsung Galaxy Note10 Lite (Aura Black, 128 )"
+Samsung,Galaxy A21s,4.3,6.0,64.0,6.5,48,8.0,5000,18499,"Samsung Galaxy A21s (White, 64 )"
+iQOO,3,4.4,8.0,128.0,6.44,48,13.0,4440,34990,"iQOO 3 (Quantum Silver, 128 )"
+iQOO,3,4.4,8.0,256.0,6.44,48,13.0,4440,37990,"iQOO 3 (Quantum Silver, 256 )"
+Blacear,B5 Tork,4.1,8.0,64.0,4.5,16,8.0,3000,799,Blacear B5 Tork
+Micax,X421,3.9,6.0,32.0,4.77,48,12.0,2800,982,Micax X421
+Micax,X421,3.9,6.0,32.0,4.77,48,8.0,2800,1099,Micax X421
+Redmi,Note 8 Pro,4.4,6.0,64.0,6.53,64,8.0,4700,16899,"Redmi Note 8 Pro (Electric Blue, 64 )"
+Samsung,Guru 1200,4.3,6.0,64.0,4.4,64,8.0,3500,1346,Samsung Guru 1200
+Google,Pixel 3a,4.5,4.0,64.0,5.6,35,20.0,3000,30999,"Google Pixel 3a (Clearly White, 64 )"
+Salora,VOLT 2,3.9,6.0,32.0,4.5,64,8.0,2000,749,Salora VOLT 2
+Samsung,Galaxy A21s,4.3,6.0,64.0,6.5,48,8.0,5000,18499,"Samsung Galaxy A21s (Black, 64 )"
+Good,One Magic,4.1,6.0,32.0,4.7,48,12.0,3000,1499,Good One Magic
+Detel,D1 Cha,3.7,6.0,32.0,4.5,48,8.0,3000,649,Detel D1 Cha
+Mi,Mix 2,4.3,6.0,128.0,5.99,35,12.0,3000,16999,"Mi Mix 2 (Black, 128 )"
+Karbonn,K140 Pop,3.9,6.0,32.0,4.5,48,8.0,3000,849,Karbonn K140 Pop
+Lava,A1,4.0,6.0,32.0,4.5,48,12.0,4700,1049,Lava A1
+Vivo,V19,4.4,8.0,256.0,6.44,48,8.0,4700,31990,"Vivo V19 (Piano Black, 256 )"
+Hicell,C5,3.6,6.0,64.0,4.5,48,8.0,3500,629,Hicell C5
+Samsung,Galaxy Note10 Lite,4.5,8.0,128.0,6.7,35,12.0,4700,39999,"Samsung Galaxy Note10 Lite (Aura Glow, 128 )"
+Kechaoda,K33,4.1,6.0,32.0,44.0,48,8.0,3000,970,Kechaoda K33
+OnePlus,7,4.6,8.0,256.0,6.41,48,5.0,3000,35999,"OnePlus 7 (Red, 256 )"
+Kechaoda,K-55 Plus,4.0,8.0,64.0,4.77,48,8.0,3500,1045,Kechaoda K-55 Plus
+Micax,X1i Power,3.9,6.0,32.0,4.54,48,12.0,1750,1110,Micax X1i Power
+Karbonn,KX24,3.9,6.0,32.0,4.54,48,8.0,3000,1349,Karbonn KX24
+Redmi,K20 Pro,4.5,6.0,128.0,6.39,48,13.0,3800,24999,"Redmi K20 Pro (Pearl White, 128 )"
+Samsung,Galaxy A71,4.4,8.0,128.0,6.7,64,12.0,4700,32999,"Samsung Galaxy A71 (Prism Crush Black, 128 )"
+I Kall,K34 New,3.6,6.0,64.0,4.5,48,8.0,3000,649,I Kall K34 New
+OPPO,Reno3 Pro,4.4,8.0,128.0,6.4,64,13.0,4025,29990,"OPPO Reno3 Pro (Midnight Black, 128 )"
+Honor,20,4.4,6.0,128.0,6.26,48,2.0,3750,22999,"Honor 20 (Midnight Black, 128 )"
+I Kall,K6610,3.5,6.0,64.0,4.5,48,8.0,3000,599,I Kall K6610
+iQOO,3,4.4,12.0,25.0,6.44,48,13.0,4440,44990,"iQOO 3 (5G) (Tordo Black, 256 )"
+Nokia,150,4.2,4.0,4.0,4.54,48,8.0,1020,2135,Nokia 150
+OPPO,Reno 10x Zoom,4.5,8.0,256.0,6.6,48,13.0,4065,41990,"OPPO Reno 10x Zoom (Ocean Green, 256 )"
+Hicell,C2 Dezire,3.4,6.0,32.0,4.5,48,8.0,1050,629,Hicell C2 Dezire
+Hicell,C2 Dezire,3.4,6.0,32.0,4.5,48,8.0,1050,629,Hicell C2 Dezire
+Realme,2 Pro,4.5,8.0,128.0,6.3,48,2.0,3500,15490,"Realme 2 Pro (Black Sea, 128 )"
+Blacear,B5 Nex,3.7,8.0,64.0,4.5,64,8.0,1050,799,Blacear B5 Nex
+Vivo,V19,4.4,8.0,256.0,6.44,48,8.0,4700,31990,"Vivo V19 (Mystic Silver, 256 )"
+Lava,34 Plus,4.2,6.0,32.0,4.54,64,8.0,2500,1619,Lava 34 Plus
+Micax,X750,4.2,6.0,32.0,4.54,48,15.0,2500,1259,Micax X750
+Nokia,106,4.2,4.0,4.0,4.5,64,15.0,3500,1349,Nokia 106
+Blacear,C-99 Sultan,3.6,8.0,64.0,4.54,64,15.0,2500,1079,Blacear C-99 Sultan
+Karbonn,K9 SPY,3.9,4.0,64.0,4.54,64,8.0,1750,1399,Karbonn K9 SPY
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,15.0,3500,945,Kechaoda A27
+Kechaoda,K115,4.1,6.0,32.0,4.4,48,8.0,2500,970,Kechaoda K115
+Easyfone,Royale,4.1,6.0,32.0,4.54,48,20.0,3500,3399,Easyfone Royale
+OPPO,A9 2020,4.3,8.0,128.0,6.52,48,8.0,5000,15990,"OPPO A9 2020 (Vanilla Mint, 128 )"
+I Kall,K33 New,3.7,6.0,64.0,4.54,48,8.0,1500,749,I Kall K33 New
+OnePlus,7T Pro,4.6,8.0,256.0,6.67,48,1.0,4085,46969,"OnePlus 7T Pro (Haze Blue, 256 )"
+Lava,Gem,4.3,6.0,32.0,4.58,64,8.0,1750,1799,Lava Gem
+OPPO,F11 Pro,4.4,6.0,128.0,6.5,48,5.0,4700,17990,"OPPO F11 Pro (Aurora Green, 128 )"
+Kechaoda,K116 Plus,4.0,6.0,32.0,4.77,48,8.0,3000,980,Kechaoda K116 Plus
+MTR,Ferrari,4.1,8.0,64.0,4.77,48,18.0,3000,1275,MTR Ferrari
+MTR,Ferrari,4.1,8.0,64.0,4.77,48,18.0,3000,1275,MTR Ferrari
+MTR,Ferrari,4.1,8.0,64.0,4.77,48,18.0,3000,1275,MTR Ferrari
+Itel,IT 2163,4.0,6.0,32.0,4.5,48,8.0,3000,949,Itel IT 2163
+Samsung,Galaxy M31,4.5,6.0,128.0,6.4,64,8.0,6000,19900,"Samsung Galaxy M31 (Ocean Blue, 128 )"
+Google,Pixel 3a,4.5,4.0,64.0,5.6,35,20.0,3000,30999,"Google Pixel 3a (Just Black, 64 )"
+Micax,X740,3.8,12.0,64.0,4.54,48,8.0,2800,1460,Micax X740
+OPPO,Reno2,4.5,8.0,256.0,6.5,48,8.0,3800,38990,"OPPO Reno2 (Luminous Black, 256 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,42999,"Samsung Galaxy S10 Lite (Prism White, 128 )"
+Muphone,M380,3.9,6.0,32.0,4.4,64,22.0,3500,890,Muphone M380
+Samsung,Galaxy A50s,4.3,4.0,128.0,6.4,48,8.0,3800,18570,"Samsung Galaxy A50s (Prism Crush Black, 128 )"
+OPPO,F9 Pro,4.5,6.0,64.0,6.3,48,2.0,3500,18990,"OPPO F9 Pro (Twilight Blue, 64 )"
+Jmax,M40,3.7,6.0,32.0,4.5,64,8.0,1050,699,Jmax M40
+Vivo,V17Pro,4.5,8.0,128.0,6.44,48,13.0,4100,29499,"Vivo V17Pro (Glacier Ice White, 128 )"
+Kechaoda,K111,4.1,6.0,32.0,4.5,48,8.0,3000,985,Kechaoda K111
+Redmi,Note 6 Pro,4.5,4.0,64.0,6.26,35,5.0,3000,15990,"Redmi Note 6 Pro (Rose Gold, 64 )"
+Kechaoda,K111,4.1,6.0,32.0,4.5,48,8.0,3000,985,Kechaoda K111
+Nokia,105 ss,4.3,4.0,4.0,4.5,64,8.0,3500,3000,Nokia 105 ss
+I Kall,K11,3.4,6.0,64.0,4.5,48,8.0,3000,599,I Kall K11
+Redmi,Note 8 Pro,4.4,6.0,128.0,6.53,64,8.0,4550,17999,"Redmi Note 8 Pro (Gamma Green, 128 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,47999,"Samsung Galaxy S10 Lite (Prism Blue, 512 )"
+Blacerry,Evolve,3.7,4.0,64.0,5.99,38,13.0,3800,24999,"Blacerry Evolve (Black, 64 )"
+POCO,F1,4.5,6.0,128.0,6.18,35,5.0,3800,18999,"POCO F1 (Steel Blue, 128 )"
+Samsung,Galaxy A70s,4.4,8.0,128.0,6.7,64,5.0,4700,29999,"Samsung Galaxy A70s (Prism Crush Red, 128 )"
+POCO,F1,4.5,8.0,256.0,6.18,35,5.0,3800,22999,"POCO F1 (Graphite Black, 256 )"
+Megus,Ultra,3.9,6.0,32.0,4.54,64,8.0,4100,1099,Megus Ultra
+OPPO,A9,4.4,4.0,128.0,6.53,48,2.0,3500,16490,"OPPO A9 (Marble Green, 128 )"
+Jmax,M40 Coo of Two,3.8,6.0,32.0,4.5,64,8.0,1050,1299,Jmax M40 Coo of Two
+Easyfone,Star,3.8,6.0,32.0,4.7,64,22.0,2500,3999,Easyfone Star
+Wizphone,WP,4.1,2.0,16.0,5.5,8,8.0,4200,5498,"Wizphone WP (Black, 16 )"
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,22.0,3500,990,Kechaoda A27
+Redmi,Note 6 Pro,4.5,6.0,64.0,6.26,35,5.0,3000,16675,"Redmi Note 6 Pro (Rose Gold, 64 )"
+Micax,X381,3.8,6.0,32.0,4.77,48,8.0,3000,995,Micax X381
+Micax,X381,3.8,6.0,32.0,4.77,48,5.0,4700,959,Micax X381
+BlackZone,ATOM,3.0,8.0,64.0,4.54,48,8.0,3800,699,BlackZone ATOM
+Vivo,Y15,4.4,4.0,64.0,6.35,38,2.0,5000,12900,"Vivo Y15 (Burgundy Red, 64 )"
+I Kall,K28 Coo of Two Mobiles,3.4,6.0,64.0,4.54,20,8.0,3500,1199,I Kall K28 Coo of Two Mobiles
+I Kall,K28 Coo of Two Mobiles,3.4,6.0,64.0,4.54,20,5.0,3500,1299,I Kall K28 Coo of Two Mobiles
+Lava,34,4.0,6.0,32.0,4.54,64,8.0,2500,1699,Lava 34
+OPPO,A9,4.4,4.0,128.0,6.53,48,2.0,3500,16490,"OPPO A9 (Fluorite Purple, 128 )"
+Lava,A1,4.2,12.0,24.0,4.77,48,8.0,3500,999,Lava A1
+Mi,10,4.6,8.0,128.0,6.67,26,20.0,4780,51987,"Mi 10 (Twilight Grey, 128 )"
+Mi,10,4.6,8.0,256.0,6.67,26,20.0,4780,53990,"Mi 10 (Coral Green, 256 )"
+I Kall,K25 Coo of Two Mobiles,3.5,6.0,64.0,4.5,48,5.0,3000,1199,I Kall K25 Coo of Two Mobiles
+I Kall,K25 Coo of Two Mobiles,3.5,6.0,64.0,4.5,48,8.0,3000,1099,I Kall K25 Coo of Two Mobiles
+Nokia,2.3,4.0,2.0,32.0,6.2,38,2.0,3800,9499,"Nokia 2.3 (Sand, 32 )"
+Good,One Magic,4.1,6.0,32.0,4.7,48,8.0,3800,1399,Good One Magic
+I Kall,K24 New Coo of Two Mobiles,3.6,6.0,64.0,4.5,48,5.0,3000,1099,I Kall K24 New Coo of Two Mobiles
+Huawei,Y9 Prime 2019,4.3,4.0,128.0,6.59,48,8.0,3800,16899,"Huawei Y9 Prime 2019 (Sapphire Blue, 128 )"
+Vivo,S1,4.4,6.0,128.0,6.38,48,8.0,4700,19990,"Vivo S1 (Diamond Black, 128 )"
+ITEL,magic 1 max,3.9,8.0,8.0,4.58,48,8.0,1900,1680,ITEL magic 1 max
+Samsung,Galaxy A80,4.4,8.0,128.0,6.7,48,8.0,3000,40900,"Samsung Galaxy A80 (Ghost White, 128 )"
+I Kall,k6300 NEW,3.9,6.0,32.0,4.58,48,8.0,3000,1499,I kall k6300 NEW
+I Kall,k6300 NEW,3.9,6.0,32.0,4.58,48,8.0,3000,1499,I kall k6300 NEW
+I Kall,K 54,3.6,6.0,32.0,4.5,48,8.0,3000,639,I Kall K 54
+Detel,D1 Cha,3.7,6.0,32.0,4.5,48,8.0,3000,645,Detel D1 Cha
+I Kall,K33 New,3.7,6.0,64.0,4.54,48,8.0,1500,749,I Kall K33 New
+Nokia,105 SS,4.3,4.0,4.0,4.77,64,8.0,3500,1349,Nokia 105 SS
+Honor,20,4.4,6.0,128.0,6.26,48,2.0,3750,22999,"Honor 20 (Sapphire Blue, 128 )"
+Redmi,K20 Pro,4.5,8.0,256.0,6.39,48,13.0,3800,29999,"Redmi K20 Pro (Carbon Black, 256 )"
+I Kall,K11 Coo Of Two Mobile,3.4,6.0,64.0,4.5,48,8.0,3000,1099,I Kall K11 Coo Of Two Mobile
+Nokia,3310 DS,3.8,4.0,64.0,4.54,48,8.0,1200,4277,Nokia 3310 DS
+Karbonn,K24 Plus Pro,3.8,6.0,32.0,4.54,48,8.0,2800,1390,Karbonn K24 Plus Pro
+Micax,X742,3.8,6.0,32.0,4.54,25,11.0,3800,1280,Micax X742
+Micax,X1i-2017,3.9,6.0,32.0,4.54,48,13.0,3000,1350,Micax X1i-2017
+Nokia,TA-1010/105,4.3,4.0,4.0,4.5,64,14.0,3500,1269,Nokia TA-1010/105
+MTR,Ferrari,4.1,8.0,64.0,4.77,48,8.0,3000,1275,MTR Ferrari
+POCO,F1,4.5,8.0,256.0,6.18,35,5.0,3800,22999,"POCO F1 (Armoured Edit, 256 )"
+I Kall,K3312 Coo,3.5,6.0,64.0,4.5,48,20.0,3000,1199,I Kall K3312 Coo
+Alcatel,1,2.8,1.0,8.0,5.0,8,8.0,2000,4999,"Alcatel 1 (Metallic Blue, 8 )"
+Alcatel,1,2.8,1.0,8.0,5.0,8,8.0,2000,4999,"Alcatel 1 (Metallic Black, 8 )"
+OnePlus,7,4.6,8.0,256.0,6.41,48,5.0,3000,36999,"OnePlus 7 (Mirror Grey, 256 )"
+OnePlus,7,4.6,6.0,128.0,6.41,48,5.0,3000,32999,"OnePlus 7 (Mirror Grey, 128 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,42999,"Samsung Galaxy S10 Lite (Prism White, 128 )"
+Muphone,M380,3.9,6.0,32.0,4.4,64,8.0,3500,890,Muphone M380
+OPPO,Reno2,4.5,8.0,256.0,6.5,48,8.0,3800,38990,"OPPO Reno2 (Luminous Black, 256 )"
+I Kall,K28,3.4,6.0,64.0,4.54,20,8.0,3500,639,I Kall K28
+Samsung,Galaxy A50s,4.3,4.0,128.0,6.4,48,8.0,3800,18570,"Samsung Galaxy A50s (Prism Crush Black, 128 )"
+OPPO,F9 Pro,4.5,6.0,64.0,6.3,48,2.0,3350,18990,"OPPO F9 Pro (Twilight Blue, 64 )"
+Jmax,M40,3.7,6.0,32.0,4.5,64,8.0,1050,699,Jmax M40
+Samsung,Galaxy A70s,4.2,6.0,128.0,6.7,64,5.0,4700,25900,"Samsung Galaxy A70s (Prism Crush White, 128 )"
+Vivo,V17Pro,4.5,8.0,128.0,6.44,48,13.0,4100,29499,"Vivo V17Pro (Glacier Ice White, 128 )"
+Kechaoda,K111,4.1,6.0,32.0,4.5,48,8.0,3000,985,Kechaoda K111
+Kechaoda,K111,4.1,6.0,32.0,4.5,48,8.0,3000,985,Kechaoda K111
+LG,V30+,4.3,4.0,128.0,6.0,48,13.0,3000,24999,"LG V30+ (Black, 128 )"
+Nokia,105 ss,4.3,4.0,4.0,4.5,64,8.0,3500,3000,Nokia 105 ss
+I Kall,K11,3.4,6.0,64.0,4.5,48,8.0,4700,599,I Kall K11
+Samsung,Galaxy A50,4.4,6.0,64.0,6.4,48,5.0,3800,18999,"Samsung Galaxy A50 (White, 64 )"
+Apple,iPhone 11 Pro,4.7,8.0,64.0,5.8,35,12.0,3500,140300,"Apple iPhone 11 Pro (Space Grey, 512 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,47999,"Samsung Galaxy S10 Lite (Prism Blue, 512 )"
+Samsung,Galaxy A70s,4.4,8.0,128.0,6.7,64,5.0,4700,29999,"Samsung Galaxy A70s (Prism Crush Red, 128 )"
+Blacerry,Evolve,3.7,4.0,64.0,5.99,38,13.0,3800,24999,"Blacerry Evolve (Black, 64 )"
+POCO,F1,4.5,6.0,128.0,6.18,35,5.0,3800,18999,"POCO F1 (Steel Blue, 128 )"
+POCO,F1,4.5,8.0,256.0,6.18,35,5.0,3800,22999,"POCO F1 (Graphite Black, 256 )"
+OPPO,A9,4.4,4.0,128.0,6.53,48,2.0,4020,16490,"OPPO A9 (Marble Green, 128 )"
+Megus,Ultra,3.9,6.0,32.0,4.54,64,11.0,4100,1099,Megus Ultra
+Jmax,M40 Coo of Two,3.8,6.0,32.0,4.5,64,8.0,3500,1299,Jmax M40 Coo of Two
+Easyfone,Star,3.8,6.0,32.0,4.7,64,12.0,2000,3999,Easyfone Star
+Wizphone,WP,4.1,2.0,16.0,5.5,8,8.0,4200,5498,"Wizphone WP (Black, 16 )"
+Kechaoda,A27,4.1,6.0,32.0,3.7,64,8.0,3500,990,Kechaoda A27
+OnePlus,7 Pro,4.5,8.0,256.0,6.67,48,8.0,3800,42990,"OnePlus 7 Pro (Nebula Blue, 256 )"
+OnePlus,7 Pro,4.6,6.0,128.0,6.67,48,8.0,3800,42990,"OnePlus 7 Pro (Mirror Grey, 128 )"
+Samsung,Galaxy S10 Lite,4.5,8.0,128.0,6.7,48,12.0,4700,47999,"Samsung Galaxy S10 Lite (Prism Black, 512 )"
+InFocus,POWER 2,4.1,8.0,64.0,4.54,64,8.0,2500,1199,InFocus POWER 2
+Apple,iPhone 8,4.5,8.0,64.0,4.7,35,7.0,3500,38999,"Apple iPhone 8 (Silver, 64 )"
+Samsung,Galaxy S20+,4.5,8.0,128.0,6.7,64,1.0,4700,77999,"Samsung Galaxy S20+ (Cloud Blue, 128 )"
+Blacear,I7 Trio,3.7,6.0,32.0,2.0,64,8.0,1550,1699,Blacear I7 Trio
+Micax,X742,3.8,6.0,32.0,4.54,25,15.0,2500,1240,Micax X742
+Karbonn,KX23,4.0,6.0,32.0,4.54,48,11.0,1900,1399,Karbonn KX23
+Lava,A3,4.2,4.0,3.0,4.77,48,8.0,1750,1299,Lava A3
+Karbonn,K451 Power,3.8,6.0,32.0,4.54,48,8.0,3000,1349,Karbonn K451 Power
+Apple,iPhone 11 Pro Max,4.7,8.0,64.0,6.5,35,12.0,3500,117100,"Apple iPhone 11 Pro Max (Space Grey, 64 )"
+Apple,iPhone 11 Pro,4.7,8.0,64.0,5.8,35,12.0,3500,140300,"Apple iPhone 11 Pro (Silver, 512 )"
+Samsung,Galaxy S10,4.6,8.0,128.0,6.1,48,12.0,3000,563000,"Samsung Galaxy S10 (Prism White, 512 )"
+OnePlus,6T,4.1,10.0,25.0,6.41,48,2.0,3000,39999,"OnePlus 6T (Speed Orange, 256 )"
+Lava,A1,4.2,12.0,24.0,4.77,48,8.0,3000,1149,Lava A1
+Micax,Canvas Infinity,4.1,3.0,32.0,5.7,38,1.0,2900,9990,"Micax Canvas Infinity (Black, 32 )"
+Lava,A1 Josh,4.2,4.0,64.0,4.5,64,22.0,3500,1098,Lava A1 Josh
+Lava,A1 Josh,4.2,4.0,64.0,4.5,64,8.0,3000,1099,Lava A1 Josh
+Micax,X749,4.2,6.0,32.0,4.54,48,22.0,1750,1390,Micax X749
+I Kall,K3312 Coo,3.5,6.0,64.0,4.5,48,22.0,3000,1199,I Kall K3312 Coo
+Peace,P4,3.5,8.0,25.0,4.5,48,22.0,3500,697,Peace P4
+I Kall,k111 new,3.6,6.0,64.0,4.54,48,14.0,3000,699,I Kall k111 new
+Blacear,i7 Trio,3.8,12.0,24.0,2.0,64,14.0,1550,1690,Blacear i7 Trio
+Karbonn,K334,3.7,6.0,32.0,4.77,48,12.0,1750,927,Karbonn K334
+Snexian,Guru 332,4.1,6.0,32.0,4.5,64,21.0,3000,649,Snexian Guru 332
+Snexian,Guru 332,4.1,6.0,32.0,4.5,64,32.0,3000,649,Snexian Guru 332
+Snexian,Guru 324,4.1,6.0,32.0,4.5,64,8.0,3000,649,Snexian Guru 324
+Snexian,Guru 324,4.1,6.0,32.0,4.5,64,12.0,3000,649,Snexian Guru 324
+Kechaoda,K2,3.9,6.0,32.0,4.5,48,8.0,3000,900,Kechaoda K2
+Jivi,R21Plus,4.3,1.0,16.0,4.5,48,8.0,3000,869,Jivi R21Plus
+Jivi,R21Plus,4.3,1.0,16.0,4.5,48,8.0,3000,798,Jivi R21Plus
+Redmi,K20,4.5,6.0,128.0,6.39,48,13.0,4030,24999,"Redmi K20 (Glacier Blue, 128 )"
+Nokia,105,4.2,4.0,4.0,4.5,64,13.0,3500,1575,Nokia 105
+Moto,One,4.1,4.0,64.0,5.9,38,2.0,3000,14999,"Moto One (White, 64 )"
+Nokia,105 SS,4.3,4.0,4.0,4.77,64,8.0,3500,1349,Nokia 105 SS
+Vivo,V17Pro,4.5,8.0,128.0,6.44,48,13.0,4100,29499,"Vivo V17Pro (Midnight Ocean Black, 128 )"
+LG,Q7+,3.4,4.0,64.0,5.5,48,5.0,3000,13999,"LG Q7+ (Black, 64 )"
+Jivi,N3,4.1,6.0,32.0,4.54,64,20.0,3500,949,Jivi N3
+Samsung,Galaxy A50,4.4,6.0,64.0,6.4,48,5.0,3800,18999,"Samsung Galaxy A50 (Blue, 64 )"
+Nokia,105,4.2,4.0,4.0,4.5,64,13.0,3500,1599,Nokia 105
+Vivo,Y91i,4.4,2.0,16.0,6.22,38,5.0,4030,9350,"Vivo Y91i (Ocean Blue, 16 )"
+Micax,X1i-Pop,4.1,4.0,40.0,4.77,48,8.0,3000,1080,Micax X1i-Pop
+Nokia,3310 DS,3.8,4.0,64.0,4.54,48,13.0,1200,3580,Nokia 3310 DS
+Lava,34,4.0,6.0,32.0,4.54,64,11.0,2500,1695,Lava 34
+Easyfone,Amico,3.5,6.0,32.0,4.52,48,8.0,3500,2599,Easyfone Amico
+Apple,iPhone 11 Pro Max,4.7,8.0,64.0,6.5,35,12.0,3500,117100,"Apple iPhone 11 Pro Max (Gold, 64 )"
+Black,Shark 2,4.4,6.0,128.0,6.39,48,12.0,3800,31999,"Black Shark 2 (Shadow Black, 128 )"
+Samsung,Galaxy S8 Plus,4.6,4.0,64.0,6.2,35,8.0,3500,53990,"Samsung Galaxy S8 Plus (Midnight Black, 64 )"
+InFocus,POWER 2,4.1,8.0,64.0,4.54,64,8.0,2500,1390,InFocus POWER 2
+InFocus,Vibe 1,3.6,6.0,32.0,4.5,48,8.0,3000,898,InFocus Vibe 1
+OPPO,A5s,4.3,4.0,64.0,6.2,38,2.0,4230,15656,"OPPO A5s (Gold, 64 )"
+Gfive,U229 Coo of Two,3.9,6.0,32.0,4.5,64,8.0,3000,1089,Gfive U229 Coo of Two
+Nokia,105 SS,4.3,4.0,4.0,4.77,64,8.0,3500,1349,Nokia 105 SS
+Moto,One,4.1,4.0,64.0,5.9,38,2.0,3000,14999,"Moto One (White, 64 )"
+Nokia,105,4.2,4.0,4.0,4.5,64,13.0,3500,1575,Nokia 105
+Redmi,K20,4.5,6.0,128.0,6.39,48,13.0,3800,24999,"Redmi K20 (Glacier Blue, 128 )"
+LG,Q7+,3.4,4.0,64.0,5.5,48,5.0,3000,13999,"LG Q7+ (Black, 64 )"
+Jivi,N3,4.1,6.0,32.0,4.54,64,20.0,3500,949,Jivi N3
+Nokia,105,4.2,4.0,4.0,4.5,64,13.0,3500,1599,Nokia 105
+Vivo,Y91i,4.4,2.0,16.0,6.22,38,5.0,4030,9350,"Vivo Y91i (Ocean Blue, 16 )"
+Samsung,Galaxy A50,4.4,6.0,64.0,6.4,48,5.0,3800,18999,"Samsung Galaxy A50 (Blue, 64 )"
+Lava,34,4.0,6.0,32.0,4.54,64,8.0,2500,1695,Lava 34
+Nokia,3310 DS,3.8,4.0,64.0,4.54,48,15.0,1200,3580,Nokia 3310 DS
+Micax,X1i-Pop,4.1,4.0,40.0,4.77,48,15.0,3000,1080,Micax X1i-Pop
+Easyfone,Amico,3.5,6.0,32.0,4.52,48,8.0,3500,2599,Easyfone Amico
+Apple,iPhone 11 Pro Max,4.7,8.0,64.0,6.5,35,12.0,3500,117100,"Apple iPhone 11 Pro Max (Gold, 64 )"
+Samsung,Galaxy S8 Plus,4.6,4.0,64.0,6.2,35,8.0,3500,53990,"Samsung Galaxy S8 Plus (Midnight Black, 64 )"
+Black,Shark 2,4.4,6.0,128.0,6.39,48,12.0,3800,31999,"Black Shark 2 (Shadow Black, 128 )"
+InFocus,Vibe 1,3.6,6.0,32.0,4.5,48,8.0,3000,898,InFocus Vibe 1
+Karbonn,K24 Plus Pro,3.8,6.0,32.0,4.54,48,12.0,2800,1299,Karbonn K24 Plus Pro
+InFocus,POWER 2,4.1,8.0,64.0,4.54,64,8.0,2500,1390,InFocus POWER 2
+Alcatel,5V,4.4,3.0,32.0,6.2,48,1.0,3800,9790,"Alcatel 5V (Spectrum Blue, 32 )"
+JIVI,JV 12M,3.7,10.0,32.0,4.5,64,8.0,3500,799,JIVI JV 12M
+Blacear,B5 Grip,3.5,6.0,32.0,4.5,64,15.0,1050,799,Blacear B5 Grip
